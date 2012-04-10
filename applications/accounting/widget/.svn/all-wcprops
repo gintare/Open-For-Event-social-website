@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1302274/ofbiz/trunk/applications/accounting/widget
+END
+BillingAccountScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/BillingAccountScreens.xml
+END
+PaymentForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1235513/ofbiz/trunk/applications/accounting/widget/PaymentForms.xml
+END
+TaxAuthorityScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1070830/ofbiz/trunk/applications/accounting/widget/TaxAuthorityScreens.xml
+END
+GlobalGlAccountsForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1201125/ofbiz/trunk/applications/accounting/widget/GlobalGlAccountsForms.xml
+END
+AccountingPrintScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930247/ofbiz/trunk/applications/accounting/widget/AccountingPrintScreens.xml
+END
+PaymentGatewayConfigForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1062608/ofbiz/trunk/applications/accounting/widget/PaymentGatewayConfigForms.xml
+END
+AccountingTrees.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/948017/ofbiz/trunk/applications/accounting/widget/AccountingTrees.xml
+END
+FinAccountForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/933890/ofbiz/trunk/applications/accounting/widget/FinAccountForms.xml
+END
+PaymentScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1235513/ofbiz/trunk/applications/accounting/widget/PaymentScreens.xml
+END
+PaymentGroupForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1063686/ofbiz/trunk/applications/accounting/widget/PaymentGroupForms.xml
+END
+InvoiceForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1153359/ofbiz/trunk/applications/accounting/widget/InvoiceForms.xml
+END
+PeriodScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/widget/PeriodScreens.xml
+END
+ReportFinancialSummaryForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1003463/ofbiz/trunk/applications/accounting/widget/ReportFinancialSummaryForms.xml
+END
+GlobalGlAccountsScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/948017/ofbiz/trunk/applications/accounting/widget/GlobalGlAccountsScreens.xml
+END
+FixedAssetForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1231004/ofbiz/trunk/applications/accounting/widget/FixedAssetForms.xml
+END
+PaymentGatewayConfigScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1062608/ofbiz/trunk/applications/accounting/widget/PaymentGatewayConfigScreens.xml
+END
+GlForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1302274/ofbiz/trunk/applications/accounting/widget/GlForms.xml
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/932083/ofbiz/trunk/applications/accounting/widget/CommonScreens.xml
+END
+FinAccountScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1063686/ofbiz/trunk/applications/accounting/widget/FinAccountScreens.xml
+END
+PaymentGroupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/902175/ofbiz/trunk/applications/accounting/widget/PaymentGroupScreens.xml
+END
+AgreementForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1092197/ofbiz/trunk/applications/accounting/widget/AgreementForms.xml
+END
+InvoiceScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1128623/ofbiz/trunk/applications/accounting/widget/InvoiceScreens.xml
+END
+CostForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/CostForms.xml
+END
+ReportFinancialSummaryScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1063686/ofbiz/trunk/applications/accounting/widget/ReportFinancialSummaryScreens.xml
+END
+FixedAssetScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1230460/ofbiz/trunk/applications/accounting/widget/FixedAssetScreens.xml
+END
+InvoiceItemTypeForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/InvoiceItemTypeForms.xml
+END
+FieldLookupForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/944623/ofbiz/trunk/applications/accounting/widget/FieldLookupForms.xml
+END
+GlScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1063686/ofbiz/trunk/applications/accounting/widget/GlScreens.xml
+END
+PaymentMethodTypeForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1004139/ofbiz/trunk/applications/accounting/widget/PaymentMethodTypeForms.xml
+END
+GlSetupForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1231004/ofbiz/trunk/applications/accounting/widget/GlSetupForms.xml
+END
+AgreementScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1092196/ofbiz/trunk/applications/accounting/widget/AgreementScreens.xml
+END
+CostScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/CostScreens.xml
+END
+LookupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/930707/ofbiz/trunk/applications/accounting/widget/LookupScreens.xml
+END
+TransactionForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/989397/ofbiz/trunk/applications/accounting/widget/TransactionForms.xml
+END
+InvoiceItemTypeScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/InvoiceItemTypeScreens.xml
+END
+AccountingMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1128623/ofbiz/trunk/applications/accounting/widget/AccountingMenus.xml
+END
+PaymentMethodTypeScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/PaymentMethodTypeScreens.xml
+END
+BillingAccountForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/891378/ofbiz/trunk/applications/accounting/widget/BillingAccountForms.xml
+END
+GlSetupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1063686/ofbiz/trunk/applications/accounting/widget/GlSetupScreens.xml
+END
+TransactionScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/accounting/widget/TransactionScreens.xml
+END
+TaxAuthorityForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/935494/ofbiz/trunk/applications/accounting/widget/TaxAuthorityForms.xml
+END
+TaxAuthorityMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/widget/TaxAuthorityMenus.xml
+END

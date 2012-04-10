@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1307283/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order
+END
+OrderViewWebSecure.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderViewWebSecure.groovy
+END
+FilterOrderList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/FilterOrderList.groovy
+END
+OrderHistory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1188349/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderHistory.groovy
+END
+ViewImage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/ViewImage.groovy
+END
+CompanyHeader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1240016/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/CompanyHeader.groovy
+END
+FindOrders.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1307283/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/FindOrders.groovy
+END
+NewNote.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/NewNote.groovy
+END
+ReceivePayment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/ReceivePayment.groovy
+END
+ShipGroups.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/981447/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/ShipGroups.groovy
+END
+OrderView.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1201663/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderView.groovy
+END
+OrderList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/808787/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderList.groovy
+END
+OrderDeliveryScheduleInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/885393/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderDeliveryScheduleInfo.groovy
+END
+OrderStats.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1082880/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/OrderStats.groovy
+END
+SendConfirmationEmail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/951098/ofbiz/trunk/applications/order/webapp/ordermgr/WEB-INF/actions/order/SendConfirmationEmail.groovy
+END

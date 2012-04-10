@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore
+END
+EbayStoreCategoryFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreCategoryFacade.java
+END
+EbayStoreInventoryServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1063455/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreInventoryServices.java
+END
+EbayStoreCustomerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1068548/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreCustomerService.java
+END
+EbayEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayEvents.java
+END
+EbayFeedback.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1081080/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayFeedback.java
+END
+EbayBestOfferAutoPref.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1068548/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayBestOfferAutoPref.java
+END
+EbayStoreSiteFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreSiteFacade.java
+END
+EbayStoreAutoPrefEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1061521/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreAutoPrefEvents.java
+END
+EbayStoreAutoPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreAutoPreferences.java
+END
+EbayStoreOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1125959/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreOptions.java
+END
+EbayStoreOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreOrder.java
+END
+EbayAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1061521/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayAccount.java
+END
+EbayStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStore.java
+END
+EbayStoreHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/ebaystore/src/org/ofbiz/ebaystore/EbayStoreHelper.java
+END

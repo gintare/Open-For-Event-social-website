@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1304454/ofbiz/trunk/applications/product/servicedef
+END
+services_shipment_ups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1053074/ofbiz/trunk/applications/product/servicedef/services_shipment_ups.xml
+END
+services_shipment_dhl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1054389/ofbiz/trunk/applications/product/servicedef/services_shipment_dhl.xml
+END
+services_pricepromo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1188607/ofbiz/trunk/applications/product/servicedef/services_pricepromo.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1233198/ofbiz/trunk/applications/product/servicedef/services.xml
+END
+services_picklist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1290890/ofbiz/trunk/applications/product/servicedef/services_picklist.xml
+END
+services_subscription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/765864/ofbiz/trunk/applications/product/servicedef/services_subscription.xml
+END
+services_rental.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/755831/ofbiz/trunk/applications/product/servicedef/services_rental.xml
+END
+services_shipment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1298945/ofbiz/trunk/applications/product/servicedef/services_shipment.xml
+END
+services_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1222544/ofbiz/trunk/applications/product/servicedef/services_upgrade.xml
+END
+services_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/890830/ofbiz/trunk/applications/product/servicedef/services_olap.xml
+END
+services_feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1050190/ofbiz/trunk/applications/product/servicedef/services_feature.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1067141/ofbiz/trunk/applications/product/servicedef/secas.xml
+END
+services_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/942544/ofbiz/trunk/applications/product/servicedef/services_store.xml
+END
+services_uom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/product/servicedef/services_uom.xml
+END
+services_shipment_usps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1054435/ofbiz/trunk/applications/product/servicedef/services_shipment_usps.xml
+END
+services_shipment_fedex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1054128/ofbiz/trunk/applications/product/servicedef/services_shipment_fedex.xml
+END
+secas_shipment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/795809/ofbiz/trunk/applications/product/servicedef/secas_shipment.xml
+END
+services_facility.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1195037/ofbiz/trunk/applications/product/servicedef/services_facility.xml
+END
+secas_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1184999/ofbiz/trunk/applications/product/servicedef/secas_olap.xml
+END
+services_maint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1304454/ofbiz/trunk/applications/product/servicedef/services_maint.xml
+END
+services_cost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/831099/ofbiz/trunk/applications/product/servicedef/services_cost.xml
+END
+services_shipmentgateway.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/product/servicedef/services_shipmentgateway.xml
+END
+services_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/988728/ofbiz/trunk/applications/product/servicedef/services_view.xml
+END

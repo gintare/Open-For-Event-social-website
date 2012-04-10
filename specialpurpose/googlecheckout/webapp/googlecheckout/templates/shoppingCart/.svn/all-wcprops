@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/shoppingCart
+END
+items.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/shoppingCart/items.ftl
+END
+expiration.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/shoppingCart/expiration.ftl
+END
+privateData.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/shoppingCart/privateData.ftl
+END

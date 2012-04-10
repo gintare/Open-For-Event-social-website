@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/product/src/org/ofbiz/product/product
+END
+ProductUtilServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1056444/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductUtilServices.java
+END
+ProductServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1126704/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductServices.java
+END
+ProductEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1224689/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductEvents.java
+END
+ProductSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1292530/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductSearch.java
+END
+ProductPromoContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1027347/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductPromoContentWrapper.java
+END
+VariantEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/821643/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/VariantEvents.java
+END
+ProductSearchSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1222544/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductSearchSession.java
+END
+ProductWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductWorker.java
+END
+ProductSearchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1167132/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductSearchEvents.java
+END
+KeywordIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1222544/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/KeywordIndex.java
+END
+ProductContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1078764/ofbiz/trunk/applications/product/src/org/ofbiz/product/product/ProductContentWrapper.java
+END

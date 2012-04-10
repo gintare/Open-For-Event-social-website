@@ -1,0 +1,129 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/accounting
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-22T10:25:31.144691Z
+1303714
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:25:54.192469Z
+5c031b72f3dcea789715441ac9a2bcde
+2011-10-19T11:19:21.107940Z
+1186102
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7934
+
+data
+dir
+
+entitydef
+dir
+
+testdef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:25:54.192469Z
+968cd860ea3702aa0a3eef5ad21cddfc
+2011-01-24T04:47:07.217034Z
+1062648
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3678
+

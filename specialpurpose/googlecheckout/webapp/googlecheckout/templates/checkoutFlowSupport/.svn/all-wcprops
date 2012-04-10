@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport
+END
+simpleFlow.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport/simpleFlow.ftl
+END
+requestPhone.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport/requestPhone.ftl
+END
+merchantCalculations.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport/merchantCalculations.ftl
+END
+shippingMethods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport/shippingMethods.ftl
+END
+taxTables.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/779116/ofbiz/trunk/specialpurpose/googlecheckout/webapp/googlecheckout/templates/checkoutFlowSupport/taxTables.ftl
+END

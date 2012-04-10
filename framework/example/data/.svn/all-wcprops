@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1158099/ofbiz/trunk/framework/example/data
+END
+ExampleTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1158099/ofbiz/trunk/framework/example/data/ExampleTypeData.xml
+END
+ExamplePortalSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1001005/ofbiz/trunk/framework/example/data/ExamplePortalSeedData.xml
+END
+ExampleDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1092706/ofbiz/trunk/framework/example/data/ExampleDemoData.xml
+END
+ExampleSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/771030/ofbiz/trunk/framework/example/data/ExampleSecurityData.xml
+END
+ExampleHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1040833/ofbiz/trunk/framework/example/data/ExampleHelpData.xml
+END
+ExamplePortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1096290/ofbiz/trunk/framework/example/data/ExamplePortletData.xml
+END

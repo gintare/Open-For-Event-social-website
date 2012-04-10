@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1308751/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control
+END
+LoginEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/757075/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/LoginEventListener.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1244139/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/LoginWorker.java
+END
+ControlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1154846/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ControlServlet.java
+END
+ProtectViewWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1081064/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ProtectViewWorker.java
+END
+RequestHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1069115/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/RequestHandlerException.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1308751/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/RequestHandler.java
+END
+ControlEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1232398/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ControlEventListener.java
+END
+ConfigXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ConfigXMLReader.java
+END
+ContextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ContextFilter.java
+END
+ControlActivationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/757075/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/control/ControlActivationEventListener.java
+END

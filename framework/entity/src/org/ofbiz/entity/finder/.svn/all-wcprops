@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1075521/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder
+END
+EntityFinderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1075521/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/EntityFinderUtil.java
+END
+ListFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/ListFinder.java
+END
+PrimaryKeyFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/941284/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/PrimaryKeyFinder.java
+END
+ByAndFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/791054/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/ByAndFinder.java
+END
+Finder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/Finder.java
+END
+ByConditionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/792420/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/finder/ByConditionFinder.java
+END

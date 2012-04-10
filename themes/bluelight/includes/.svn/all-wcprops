@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1206052/ofbiz/trunk/themes/bluelight/includes
+END
+appbarClose.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1072338/ofbiz/trunk/themes/bluelight/includes/appbarClose.ftl
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/765905/ofbiz/trunk/themes/bluelight/includes/footer.ftl
+END
+appbarOpen.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1158124/ofbiz/trunk/themes/bluelight/includes/appbarOpen.ftl
+END
+messages.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/819400/ofbiz/trunk/themes/bluelight/includes/messages.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1206052/ofbiz/trunk/themes/bluelight/includes/header.ftl
+END

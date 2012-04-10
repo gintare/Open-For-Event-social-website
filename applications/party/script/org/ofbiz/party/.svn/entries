@@ -1,0 +1,83 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/party/script/org/ofbiz/party
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-29T07:57:22.568566Z
+1306745
+sascharodekamp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+party
+dir
+
+test
+dir
+
+customer
+dir
+
+communication
+dir
+
+content
+dir
+
+contact
+dir
+
+LookupServices.xml
+file
+
+
+
+
+2012-04-03T16:25:44.804470Z
+8d89bd4a5f043b468b1e8b289c503cc0
+2009-04-08T10:54:51.925618Z
+763175
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2037
+
+user
+dir
+

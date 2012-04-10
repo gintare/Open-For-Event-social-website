@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/service/src/org/ofbiz/service/group
+END
+ServiceGroupReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/833725/ofbiz/trunk/framework/service/src/org/ofbiz/service/group/ServiceGroupReader.java
+END
+ServiceGroupEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/service/src/org/ofbiz/service/group/ServiceGroupEngine.java
+END
+GroupModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/service/src/org/ofbiz/service/group/GroupModel.java
+END
+GroupServiceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/service/src/org/ofbiz/service/group/GroupServiceModel.java
+END

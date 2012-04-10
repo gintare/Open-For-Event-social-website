@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1056439/ofbiz/trunk/applications/content/script/org/ofbiz/content/permission
+END
+ContentPermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1056439/ofbiz/trunk/applications/content/script/org/ofbiz/content/permission/ContentPermissionServices.xml
+END
+DataResourcePermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1051607/ofbiz/trunk/applications/content/script/org/ofbiz/content/permission/DataResourcePermissionServices.xml
+END

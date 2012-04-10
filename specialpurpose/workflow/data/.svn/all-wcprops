@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/specialpurpose/workflow/data
+END
+OrderProcessWorkflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/specialpurpose/workflow/data/OrderProcessWorkflow.xml
+END
+WorkFlowTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/workflow/data/WorkFlowTypeData.xml
+END
+WorkFlowSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/665981/ofbiz/trunk/specialpurpose/workflow/data/WorkFlowSecurityData.xml
+END

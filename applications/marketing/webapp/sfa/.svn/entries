@@ -1,0 +1,80 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/marketing/webapp/sfa
+http://svn.apache.org/repos/asf
+
+
+
+2011-11-02T03:45:57.742175Z
+1196444
+hansbak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+party
+dir
+
+index.jsp
+file
+
+
+
+
+2012-04-03T16:25:49.640470Z
+979a83467305a849aec728720305786f
+2008-03-06T03:41:57.409086Z
+634143
+apatel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+806
+
+lead
+dir
+
+WEB-INF
+dir
+
+error
+dir
+
+contact
+dir
+
+account
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/script/org/ofbiz/manufacturing/techdata
+END
+RoutingSimpleServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/script/org/ofbiz/manufacturing/techdata/RoutingSimpleServices.xml
+END
+RoutingSimpleEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/script/org/ofbiz/manufacturing/techdata/RoutingSimpleEvents.xml
+END
+RoutingMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/script/org/ofbiz/manufacturing/techdata/RoutingMapProcs.xml
+END
+TaskFormulae.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/script/org/ofbiz/manufacturing/techdata/TaskFormulae.xml
+END

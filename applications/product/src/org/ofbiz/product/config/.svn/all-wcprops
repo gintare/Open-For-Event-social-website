@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1232385/ofbiz/trunk/applications/product/src/org/ofbiz/product/config
+END
+ProductConfigWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1126704/ofbiz/trunk/applications/product/src/org/ofbiz/product/config/ProductConfigWorker.java
+END
+ProductConfigItemContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1140362/ofbiz/trunk/applications/product/src/org/ofbiz/product/config/ProductConfigItemContentWrapper.java
+END
+ProductConfigWrapperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/935487/ofbiz/trunk/applications/product/src/org/ofbiz/product/config/ProductConfigWrapperException.java
+END
+ProductConfigWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1232385/ofbiz/trunk/applications/product/src/org/ofbiz/product/config/ProductConfigWrapper.java
+END

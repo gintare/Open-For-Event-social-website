@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/transaction
+END
+ViewGatewayResponse.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/815678/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/transaction/ViewGatewayResponse.groovy
+END
+AuthorizeTransaction.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/transaction/AuthorizeTransaction.groovy
+END
+CaptureTransaction.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/transaction/CaptureTransaction.groovy
+END

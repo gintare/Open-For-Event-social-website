@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1300747/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300747/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/GenericDAO.java
+END
+GenericHelperDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1139700/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/GenericHelperDAO.java
+END
+GenericHelperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/927271/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/GenericHelperFactory.java
+END
+GenericHelperInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/927271/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/GenericHelperInfo.java
+END
+MemoryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1139700/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/MemoryHelper.java
+END
+GenericHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1139700/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/datasource/GenericHelper.java
+END

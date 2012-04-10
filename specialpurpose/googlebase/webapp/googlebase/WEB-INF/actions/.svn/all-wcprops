@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions
+END
+productsToGooglebase.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/productsToGooglebase.groovy
+END
+autoUpdateConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/autoUpdateConfig.groovy
+END
+GoogleBaseAdvancedSearch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/GoogleBaseAdvancedSearch.groovy
+END
+productsExportToGoogle.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/productsExportToGoogle.groovy
+END
+googlebaseDivideList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/googlebaseDivideList.groovy
+END
+FilterProducts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1081270/ofbiz/trunk/specialpurpose/googlebase/webapp/googlebase/WEB-INF/actions/FilterProducts.groovy
+END

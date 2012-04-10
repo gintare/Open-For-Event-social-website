@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1300847/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method
+END
+MethodOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/759238/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/MethodOperation.java
+END
+MethodContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/MethodContext.java
+END
+ContextAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1075527/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ContextAccessor.java
+END
+MethodObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/759238/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/MethodObject.java
+END
+MethodString.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/759238/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/MethodString.java
+END
+FieldObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/FieldObject.java
+END
+FieldString.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/FieldString.java
+END
+StringString.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/StringString.java
+END
+StringObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/StringObject.java
+END

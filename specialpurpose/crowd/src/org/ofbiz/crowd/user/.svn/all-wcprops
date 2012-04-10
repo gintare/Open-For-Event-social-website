@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/crowd/src/org/ofbiz/crowd/user
+END
+UserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/crowd/src/org/ofbiz/crowd/user/UserWrapper.java
+END
+UserGroupMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/crowd/src/org/ofbiz/crowd/user/UserGroupMapper.java
+END
+UserAttributeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/crowd/src/org/ofbiz/crowd/user/UserAttributeMapper.java
+END

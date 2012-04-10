@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1298904/ofbiz/trunk/specialpurpose/webpos/webapp/webpos
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/749177/ofbiz/trunk/specialpurpose/webpos/webapp/webpos/index.jsp
+END
+RequirePasswordChange.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/webapp/webpos/RequirePasswordChange.ftl
+END
+Login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/webapp/webpos/Login.ftl
+END

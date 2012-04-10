@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/service/testdef/data
+END
+ServiceLockTimeoutRetryAssertData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/573813/ofbiz/trunk/framework/service/testdef/data/ServiceLockTimeoutRetryAssertData.xml
+END
+ServiceSetRollbackOnlyAssertData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/576730/ofbiz/trunk/framework/service/testdef/data/ServiceSetRollbackOnlyAssertData.xml
+END
+ServiceEcaGlobalEventAssertData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/576730/ofbiz/trunk/framework/service/testdef/data/ServiceEcaGlobalEventAssertData.xml
+END
+ServiceDeadLockRetryAssertData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/service/testdef/data/ServiceDeadLockRetryAssertData.xml
+END
+ServiceTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/service/testdef/data/ServiceTestData.xml
+END
+ServiceLockTimeoutRetryCantRecoverAssertData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/573813/ofbiz/trunk/framework/service/testdef/data/ServiceLockTimeoutRetryCantRecoverAssertData.xml
+END

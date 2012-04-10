@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1302324/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/serialize
+END
+SerializeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1068643/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/serialize/SerializeException.java
+END
+XmlSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/serialize/XmlSerializable.java
+END
+XmlSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1302324/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/serialize/XmlSerializer.java
+END

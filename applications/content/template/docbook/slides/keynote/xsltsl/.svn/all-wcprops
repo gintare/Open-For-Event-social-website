@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/example.xsl
+END
+cmp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/cmp.xsl
+END
+markup.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/markup.xsl
+END
+svg.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/svg.xsl
+END
+uri.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/uri.xsl
+END
+stdlib.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/stdlib.xsl
+END
+node.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/node.xsl
+END
+string.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/string.xsl
+END
+date-time.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/date-time.xsl
+END
+math.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/keynote/xsltsl/math.xsl
+END

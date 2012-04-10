@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1306568/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container
+END
+CatalinaContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1204920/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container/CatalinaContainer.java
+END
+SSLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1203470/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container/SSLImpl.java
+END
+SslAcceleratorValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/759230/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container/SslAcceleratorValve.java
+END
+OfbizStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1203470/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container/OfbizStore.java
+END
+CrossSubdomainSessionValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1306568/ofbiz/trunk/framework/catalina/src/org/ofbiz/catalina/container/CrossSubdomainSessionValve.java
+END

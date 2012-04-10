@@ -1,0 +1,123 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/manufacturing
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-18T09:21:22.330195Z
+1302101
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:25:50.556485Z
+c97f46aa5ab90a5ece05d3558ff781eb
+2010-02-09T11:16:47.010463Z
+908001
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3201
+
+data
+dir
+
+entitydef
+dir
+
+testdef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:25:50.556485Z
+faa45a68a09573dfda9fc2bf67b9f5c9
+2009-12-26T22:28:48.116557Z
+894031
+doogie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2497
+

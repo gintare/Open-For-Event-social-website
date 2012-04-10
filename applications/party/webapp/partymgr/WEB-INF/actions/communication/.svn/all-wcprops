@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication
+END
+GetMyCommunicationEventRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication/GetMyCommunicationEventRole.groovy
+END
+recentVisitor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/935163/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication/recentVisitor.groovy
+END
+ListCommunications.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication/ListCommunications.groovy
+END
+getPartyEmailFromCommEventInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/928176/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication/getPartyEmailFromCommEventInfo.groovy
+END
+FindCommEventContactMechs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/communication/FindCommEventContactMechs.groovy
+END

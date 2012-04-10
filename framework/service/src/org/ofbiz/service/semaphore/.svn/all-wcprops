@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1069104/ofbiz/trunk/framework/service/src/org/ofbiz/service/semaphore
+END
+ServiceSemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/service/src/org/ofbiz/service/semaphore/ServiceSemaphore.java
+END
+SemaphoreWaitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1069104/ofbiz/trunk/framework/service/src/org/ofbiz/service/semaphore/SemaphoreWaitException.java
+END
+SemaphoreFailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1069104/ofbiz/trunk/framework/service/src/org/ofbiz/service/semaphore/SemaphoreFailException.java
+END

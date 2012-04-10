@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/800x600
+END
+pospanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/800x600/pospanel.xml
+END
+mgrpanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/800x600/mgrpanel.xml
+END
+paypanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/800x600/paypanel.xml
+END
+promopanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/800x600/promopanel.xml
+END

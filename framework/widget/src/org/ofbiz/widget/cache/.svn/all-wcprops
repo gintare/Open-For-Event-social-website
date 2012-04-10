@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1170525/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/cache
+END
+GenericWidgetOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/cache/GenericWidgetOutput.java
+END
+ScreenCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/833770/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/cache/ScreenCache.java
+END
+WidgetContextCacheKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1170525/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/cache/WidgetContextCacheKey.java
+END
+AbstractCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/883226/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/cache/AbstractCache.java
+END

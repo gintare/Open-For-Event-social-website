@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1292661/ofbiz/trunk/applications/product/data
+END
+DimensionTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/677587/ofbiz/trunk/applications/product/data/DimensionTypeData.xml
+END
+ApiSchemaDhl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1054389/ofbiz/trunk/applications/product/data/ApiSchemaDhl.xml
+END
+ProductSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1067141/ofbiz/trunk/applications/product/data/ProductSecurityData.xml
+END
+ProductHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1195180/ofbiz/trunk/applications/product/data/ProductHelpData.xml
+END
+ShipmentTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1054435/ofbiz/trunk/applications/product/data/ShipmentTypeData.xml
+END
+ProductPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1235928/ofbiz/trunk/applications/product/data/ProductPortletData.xml
+END
+ProductScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/933906/ofbiz/trunk/applications/product/data/ProductScheduledServices.xml
+END
+ProductTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1235698/ofbiz/trunk/applications/product/data/ProductTypeData.xml
+END
+ProductDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1292661/ofbiz/trunk/applications/product/data/ProductDemoData.xml
+END

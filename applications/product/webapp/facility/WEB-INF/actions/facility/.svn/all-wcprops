@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1139880/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility
+END
+FindFacilityTransfers.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/FindFacilityTransfers.groovy
+END
+EditContactMech.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/EditContactMech.groovy
+END
+FindFacilityLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/FindFacilityLocation.groovy
+END
+FindInventoryItemsByLabels.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1139880/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/FindInventoryItemsByLabels.groovy
+END
+FacilityLocationGeoLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/FacilityLocationGeoLocation.groovy
+END
+EditFacilityLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/EditFacilityLocation.groovy
+END
+FindFacility.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/938947/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/FindFacility.groovy
+END
+ViewContactMechs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/ViewContactMechs.groovy
+END
+CountFacilityInventoryByProduct.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/CountFacilityInventoryByProduct.groovy
+END
+ComputeProductSellThroughData.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/783244/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/ComputeProductSellThroughData.groovy
+END
+ViewFacilityInventoryByProduct.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1139880/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/ViewFacilityInventoryByProduct.groovy
+END
+EditFacility.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/929503/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions/facility/EditFacility.groovy
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/935434/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/admin
+END
+FilterOutReceipts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/admin/FilterOutReceipts.groovy
+END
+ListInvoiceItemTypesGlAccount.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/935434/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/admin/ListInvoiceItemTypesGlAccount.groovy
+END

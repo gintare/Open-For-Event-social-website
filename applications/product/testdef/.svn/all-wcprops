@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1230981/ofbiz/trunk/applications/product/testdef
+END
+FacilityTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1185188/ofbiz/trunk/applications/product/testdef/FacilityTest.xml
+END
+GroupOrderTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1204805/ofbiz/trunk/applications/product/testdef/GroupOrderTest.xml
+END
+CostTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/testdef/CostTests.xml
+END
+ProductTagTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1224689/ofbiz/trunk/applications/product/testdef/ProductTagTest.xml
+END
+CatalogTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/product/testdef/CatalogTests.xml
+END

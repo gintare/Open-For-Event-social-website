@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd
+END
+161_show_shipment_005.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/161_show_shipment_005.xsd
+END
+002_confirm_bod_004.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/002_confirm_bod_004.xsd
+END
+196_acknowledge_delivery_001.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/196_acknowledge_delivery_001.xsd
+END
+197_receive_delivery_001.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/197_receive_delivery_001.xsd
+END
+oagis_segments.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/oagis_segments.xsd
+END
+oagis_fields.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/oagis_fields.xsd
+END
+068_sync_inventory_005.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/068_sync_inventory_005.xsd
+END
+161B_process_shipment_001.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/oagis/dtd/161B_process_shipment_001.xsd
+END

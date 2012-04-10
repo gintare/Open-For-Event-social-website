@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 116
+postgresql-8.1-407.jdbc3.jar
+postgresql-8.3-603.jdbc3.jar
+postgresql-8.4-701.jdbc4.jar
+postgresql-9.0-801.jdbc4.jar
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/test
+END
+test1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/appserver/templates/test/test1
+END
+test2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/test/test2
+END
+test3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/appserver/templates/test/test3
+END

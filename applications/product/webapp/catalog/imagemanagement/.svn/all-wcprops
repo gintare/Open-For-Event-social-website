@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1233198/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement
+END
+ImageFrame.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1228702/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageFrame.ftl
+END
+ImageRotateButton.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1052521/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageRotateButton.ftl
+END
+ImageWatermark.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1228702/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageWatermark.ftl
+END
+ImageGallery.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1097674/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageGallery.ftl
+END
+showPeopleApprove.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1068279/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/showPeopleApprove.ftl
+END
+ResizeImage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1052521/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ResizeImage.ftl
+END
+ImageShare.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1097674/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageShare.ftl
+END
+ImageCrop.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1097674/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageCrop.ftl
+END
+ImageRecentlyApproved.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1052521/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageRecentlyApproved.ftl
+END
+AddMultipleImages.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1233198/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/AddMultipleImages.ftl
+END
+ImageRotating.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1052521/ofbiz/trunk/applications/product/webapp/catalog/imagemanagement/ImageRotating.ftl
+END

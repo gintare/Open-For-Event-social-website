@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1198629/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment
+END
+PaymentServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1198629/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/PaymentServices.xml
+END
+PaymentMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1001098/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/PaymentMapProcs.xml
+END
+PaymentMethodServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/903922/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/PaymentMethodServices.xml
+END
+PaymentMethodEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1132726/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/PaymentMethodEvents.xml
+END
+BillingServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/BillingServices.xml
+END
+PaymentGatewayConfigServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1062608/ofbiz/trunk/applications/accounting/script/org/ofbiz/accounting/payment/PaymentGatewayConfigServices.xml
+END

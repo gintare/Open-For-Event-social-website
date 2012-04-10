@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1300965/ofbiz/trunk/framework/common/src/org/ofbiz/common
+END
+JsLanguageFilesMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1201229/ofbiz/trunk/framework/common/src/org/ofbiz/common/JsLanguageFilesMapping.java
+END
+JavaScriptTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/src/org/ofbiz/common/JavaScriptTest.js
+END
+Captcha.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/common/src/org/ofbiz/common/Captcha.java
+END
+FindServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1195354/ofbiz/trunk/framework/common/src/org/ofbiz/common/FindServices.java
+END
+CommonWorkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1240016/ofbiz/trunk/framework/common/src/org/ofbiz/common/CommonWorkers.java
+END
+CdyneServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1066157/ofbiz/trunk/framework/common/src/org/ofbiz/common/CdyneServices.java
+END
+UrlServletHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1230478/ofbiz/trunk/framework/common/src/org/ofbiz/common/UrlServletHelper.java
+END
+DataModelConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/757078/ofbiz/trunk/framework/common/src/org/ofbiz/common/DataModelConstants.java
+END
+KeywordSearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/common/src/org/ofbiz/common/KeywordSearchUtil.java
+END
+JsLanguageFileMappingCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1182858/ofbiz/trunk/framework/common/src/org/ofbiz/common/JsLanguageFileMappingCreator.java
+END
+CommonServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1299985/ofbiz/trunk/framework/common/src/org/ofbiz/common/CommonServices.java
+END
+CommonEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1172015/ofbiz/trunk/framework/common/src/org/ofbiz/common/CommonEvents.java
+END
+FtpServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1066157/ofbiz/trunk/framework/common/src/org/ofbiz/common/FtpServices.java
+END

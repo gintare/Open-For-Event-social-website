@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1307848/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/includes
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/923545/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/includes/footer.ftl
+END
+language.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1042136/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/includes/language.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/823849/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/includes/header.ftl
+END
+headerHead.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1307848/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/includes/headerHead.ftl
+END

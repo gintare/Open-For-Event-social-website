@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1305309/ofbiz/trunk/applications/order/src/org/ofbiz/order/test
+END
+OrderTestServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305309/ofbiz/trunk/applications/order/src/org/ofbiz/order/test/OrderTestServices.java
+END
+SalesOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1056967/ofbiz/trunk/applications/order/src/org/ofbiz/order/test/SalesOrderTest.java
+END
+PurchaseOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/order/src/org/ofbiz/order/test/PurchaseOrderTest.java
+END

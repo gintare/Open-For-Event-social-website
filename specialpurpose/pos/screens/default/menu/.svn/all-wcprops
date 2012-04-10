@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/831522/ofbiz/trunk/specialpurpose/pos/screens/default/menu
+END
+promomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/823475/ofbiz/trunk/specialpurpose/pos/screens/default/menu/promomain.xml
+END
+posmain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/pos/screens/default/menu/posmain.xml
+END
+mgrmain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/831522/ofbiz/trunk/specialpurpose/pos/screens/default/menu/mgrmain.xml
+END
+paymain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/menu/paymain.xml
+END

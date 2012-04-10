@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports
+END
+PRunsInfoAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsInfoAndOrder.groovy
+END
+PRunsProductsByFeature.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsByFeature.groovy
+END
+ShipmentPlanStockReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/908567/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentPlanStockReport.groovy
+END
+PRunsComponentsByFeature.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/935163/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsComponentsByFeature.groovy
+END
+PRunsProductsStacks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsStacks.groovy
+END
+ShipmentWorkEffortTasks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentWorkEffortTasks.groovy
+END
+ShipmentLabel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentLabel.groovy
+END
+PackageContentsAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PackageContentsAndOrder.groovy
+END
+PRunsProductsAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsAndOrder.groovy
+END

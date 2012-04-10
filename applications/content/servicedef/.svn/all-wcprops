@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1202142/ofbiz/trunk/applications/content/servicedef
+END
+mca.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/769576/ofbiz/trunk/applications/content/servicedef/mca.xml
+END
+services_commevent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/896862/ofbiz/trunk/applications/content/servicedef/services_commevent.xml
+END
+services_survey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/762648/ofbiz/trunk/applications/content/servicedef/services_survey.xml
+END
+services_contenttypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/content/servicedef/services_contenttypes.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1153034/ofbiz/trunk/applications/content/servicedef/services.xml
+END
+services_output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/content/servicedef/services_output.xml
+END
+services_website.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1153034/ofbiz/trunk/applications/content/servicedef/services_website.xml
+END
+services_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1198615/ofbiz/trunk/applications/content/servicedef/services_data.xml
+END
+services_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1202142/ofbiz/trunk/applications/content/servicedef/services_content.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1144227/ofbiz/trunk/applications/content/servicedef/secas.xml
+END

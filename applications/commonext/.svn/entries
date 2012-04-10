@@ -1,0 +1,86 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/commonext
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-14T10:30:38.683455Z
+1300497
+hansbak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:25:51.328489Z
+3290c830ec1afaf3bab7e66c1f118171
+2012-02-05T22:00:08.532905Z
+1240847
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2348
+
+data
+dir
+
+entitydef
+dir
+
+webapp
+dir
+

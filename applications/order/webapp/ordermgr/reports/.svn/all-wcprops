@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1068279/ofbiz/trunk/applications/order/webapp/ordermgr/reports
+END
+OrdersByChannel.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/938947/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrdersByChannel.rptdesign
+END
+NetBeforeOverheadReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924378/ofbiz/trunk/applications/order/webapp/ordermgr/reports/NetBeforeOverheadReport.rptdesign
+END
+ProductDemandReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/924378/ofbiz/trunk/applications/order/webapp/ordermgr/reports/ProductDemandReport.rptdesign
+END
+orderitemreport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/762648/ofbiz/trunk/applications/order/webapp/ordermgr/reports/orderitemreport.xml
+END
+CouponSalesReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/938947/ofbiz/trunk/applications/order/webapp/ordermgr/reports/CouponSalesReport.rptdesign
+END
+OrderPurchaseReportPayment.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrderPurchaseReportPayment.fo.ftl
+END
+OrderPurchaseReportProduct.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrderPurchaseReportProduct.fo.ftl
+END
+reportlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/order/webapp/ordermgr/reports/reportlist.ftl
+END
+PurchasesByOrganizationReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/reports/PurchasesByOrganizationReport.fo.ftl
+END
+SalesReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1068279/ofbiz/trunk/applications/order/webapp/ordermgr/reports/SalesReport.rptdesign
+END
+OrderByReferrer.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/938947/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrderByReferrer.rptdesign
+END
+Last3MonthsSalesReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/924378/ofbiz/trunk/applications/order/webapp/ordermgr/reports/Last3MonthsSalesReport.rptdesign
+END
+SalesByStoreReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/958521/ofbiz/trunk/applications/order/webapp/ordermgr/reports/SalesByStoreReport.fo.ftl
+END
+orderreport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/762648/ofbiz/trunk/applications/order/webapp/ordermgr/reports/orderreport.xml
+END
+SalesReportMonth.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1068279/ofbiz/trunk/applications/order/webapp/ordermgr/reports/SalesReportMonth.rptdesign
+END
+OrderDiscountCodeReport.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/924378/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrderDiscountCodeReport.rptdesign
+END
+OrderReportPrepare.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/webapp/ordermgr/reports/OrderReportPrepare.groovy
+END
+SalesReportWeek.rptdesign
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1068279/ofbiz/trunk/applications/order/webapp/ordermgr/reports/SalesReportWeek.rptdesign
+END

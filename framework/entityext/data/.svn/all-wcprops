@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/757639/ofbiz/trunk/framework/entityext/data
+END
+EntityScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/695695/ofbiz/trunk/framework/entityext/data/EntityScheduledServices.xml
+END
+EntityExtTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/entityext/data/EntityExtTypeData.xml
+END
+EntityExtSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/entityext/data/EntityExtSecurityData.xml
+END

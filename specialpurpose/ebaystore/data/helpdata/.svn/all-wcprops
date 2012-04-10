@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/924378/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata
+END
+HELP_EBAY_StoreSetting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_StoreSetting.xml
+END
+HELP_EBAY_ExportCategoriesToEbay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_ExportCategoriesToEbay.xml
+END
+HELP_EBAY_ReserveProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_ReserveProduct.xml
+END
+HELP_EBAY_EbayStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_EbayStore.xml
+END
+HELP_EBAY_ProductInventory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_ProductInventory.xml
+END
+HELP_EBAY_LeaveFeedback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/924378/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_LeaveFeedback.xml
+END
+HELP_EBAY_Feedback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_Feedback.xml
+END
+HELP_EBAY_AutoPref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_AutoPref.xml
+END
+HELP_EBAY_BlockItemOutStock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_BlockItemOutStock.xml
+END
+HELP_EBAY_NewEbayAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/917405/ofbiz/trunk/specialpurpose/ebaystore/data/helpdata/HELP_EBAY_NewEbayAccount.xml
+END

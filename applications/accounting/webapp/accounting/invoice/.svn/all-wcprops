@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1004386/ofbiz/trunk/applications/accounting/webapp/accounting/invoice
+END
+invoiceReportItems.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1004386/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/invoiceReportItems.fo.ftl
+END
+PrintInvoices.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/PrintInvoices.fo.ftl
+END
+invoiceReportHeaderInfo.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/invoiceReportHeaderInfo.fo.ftl
+END
+InvoiceItemsPayrol.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/931670/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/InvoiceItemsPayrol.ftl
+END
+NoAccountingView.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/689818/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/NoAccountingView.fo.ftl
+END
+invoiceReportContactMechs.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/accounting/webapp/accounting/invoice/invoiceReportContactMechs.fo.ftl
+END

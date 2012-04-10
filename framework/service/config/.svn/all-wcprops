@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1301866/ofbiz/trunk/framework/service/config
+END
+rmitrust.jks
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/534994/ofbiz/trunk/framework/service/config/rmitrust.jks
+END
+serviceengine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1301866/ofbiz/trunk/framework/service/config/serviceengine.xml
+END
+ServiceErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1090757/ofbiz/trunk/framework/service/config/ServiceErrorUiLabels.xml
+END
+service.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1301866/ofbiz/trunk/framework/service/config/service.properties
+END

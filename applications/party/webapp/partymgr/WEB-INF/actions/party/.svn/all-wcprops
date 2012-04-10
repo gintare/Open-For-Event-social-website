@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1307288/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party
+END
+ViewProfile.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/ViewProfile.groovy
+END
+GetCurrentCart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetCurrentCart.groovy
+END
+EditContactMech.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/EditContactMech.groovy
+END
+GetPaymentMethods.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1054857/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetPaymentMethods.groovy
+END
+GetGeoLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1230981/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetGeoLocation.groovy
+END
+GetPostalAddressTemplate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1307288/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetPostalAddressTemplate.groovy
+END
+UnAppliedInvoicesForParty.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/UnAppliedInvoicesForParty.groovy
+END
+SetRoleVars.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/SetRoleVars.groovy
+END
+FindLookUp.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/FindLookUp.groovy
+END
+GetContactMechs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetContactMechs.groovy
+END
+GetMyCompany.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetMyCompany.groovy
+END
+PartyGeoLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1153842/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/PartyGeoLocation.groovy
+END
+GetUserLoginPrimaryEmail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetUserLoginPrimaryEmail.groovy
+END
+EditPaymentMethod.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/EditPaymentMethod.groovy
+END
+FindMatches.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982144/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/FindMatches.groovy
+END
+PartyFinancialHistory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/PartyFinancialHistory.groovy
+END
+EditShoppingList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1208380/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/EditShoppingList.groovy
+END
+UnAppliedPaymentsForParty.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/UnAppliedPaymentsForParty.groovy
+END
+GetLoyaltyPoints.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/GetLoyaltyPoints.groovy
+END
+StatusCondition.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/party/StatusCondition.groovy
+END

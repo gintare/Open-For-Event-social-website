@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/visit
+END
+ShowVisits.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/815615/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/visit/ShowVisits.groovy
+END
+VisitDetails.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/party/webapp/partymgr/WEB-INF/actions/visit/VisitDetails.groovy
+END

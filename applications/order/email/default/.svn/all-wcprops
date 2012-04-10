@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1082916/ofbiz/trunk/applications/order/email/default
+END
+emailprocessnotify.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1082916/ofbiz/trunk/applications/order/email/default/emailprocessnotify.ftl
+END
+OrderDeliveryUpdatedNotice.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/499486/ofbiz/trunk/applications/order/email/default/OrderDeliveryUpdatedNotice.ftl
+END

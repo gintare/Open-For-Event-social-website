@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/applications/party/script/org/ofbiz/party/test
+END
+PartyTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/981698/ofbiz/trunk/applications/party/script/org/ofbiz/party/test/PartyTests.xml
+END
+PartyContactMechTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/applications/party/script/org/ofbiz/party/test/PartyContactMechTests.xml
+END

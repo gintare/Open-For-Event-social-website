@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1136831/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops
+END
+FilterListByAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/FilterListByAnd.java
+END
+CreateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/792422/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/CreateValue.java
+END
+MakeNextSeqId.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/MakeNextSeqId.java
+END
+NowTimestampToEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/NowTimestampToEnv.java
+END
+OrderValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1136831/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/OrderValueList.java
+END
+EntityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/EntityData.java
+END
+RemoveByAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/RemoveByAnd.java
+END
+SetPkFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/SetPkFields.java
+END
+EntityOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/EntityOne.java
+END
+GetRelated.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/GetRelated.java
+END
+ClearCacheLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/ClearCacheLine.java
+END
+GetRelatedOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/GetRelatedOne.java
+END
+SetCurrentUserLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/SetCurrentUserLogin.java
+END
+SetNonpkFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/SetNonpkFields.java
+END
+RemoveList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/RemoveList.java
+END
+TransactionBegin.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/TransactionBegin.java
+END
+CloneValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/CloneValue.java
+END
+RemoveRelated.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/RemoveRelated.java
+END
+EntityAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/EntityAnd.java
+END
+TransactionRollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/TransactionRollback.java
+END
+SequencedIdToEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/SequencedIdToEnv.java
+END
+MakeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/MakeValue.java
+END
+FilterListByDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/FilterListByDate.java
+END
+NowDateToEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/NowDateToEnv.java
+END
+EntityCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/EntityCondition.java
+END
+EntityCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/EntityCount.java
+END
+StoreList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/StoreList.java
+END
+FindByPrimaryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/FindByPrimaryKey.java
+END
+StoreValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/826322/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/StoreValue.java
+END
+RemoveValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/RemoveValue.java
+END
+ClearEntityCaches.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/ClearEntityCaches.java
+END
+RefreshValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/RefreshValue.java
+END
+FindByAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/FindByAnd.java
+END
+TransactionCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/entityops/TransactionCommit.java
+END

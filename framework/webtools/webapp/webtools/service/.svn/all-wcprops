@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1214680/ofbiz/trunk/framework/webtools/webapp/webtools/service
+END
+setServiceParameter.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/930701/ofbiz/trunk/framework/webtools/webapp/webtools/service/setServiceParameter.ftl
+END
+serviceResult.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/942386/ofbiz/trunk/framework/webtools/webapp/webtools/service/serviceResult.ftl
+END
+availableservices.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1098406/ofbiz/trunk/framework/webtools/webapp/webtools/service/availableservices.ftl
+END
+setServiceParameterSync.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1214680/ofbiz/trunk/framework/webtools/webapp/webtools/service/setServiceParameterSync.ftl
+END
+threads.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1049031/ofbiz/trunk/framework/webtools/webapp/webtools/service/threads.ftl
+END

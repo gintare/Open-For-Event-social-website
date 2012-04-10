@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1209350/ofbiz/trunk/applications/marketing/widget/sfa
+END
+SfaMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1172990/ofbiz/trunk/applications/marketing/widget/sfa/SfaMenus.xml
+END
+EventScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/marketing/widget/sfa/EventScreens.xml
+END
+LeadScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/marketing/widget/sfa/LeadScreens.xml
+END
+ForecastScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/marketing/widget/sfa/ForecastScreens.xml
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/marketing/widget/sfa/CommonScreens.xml
+END
+LookupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1209341/ofbiz/trunk/applications/marketing/widget/sfa/LookupScreens.xml
+END
+ContactScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/894330/ofbiz/trunk/applications/marketing/widget/sfa/ContactScreens.xml
+END
+AccountScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1035188/ofbiz/trunk/applications/marketing/widget/sfa/AccountScreens.xml
+END
+OpportunityScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1172990/ofbiz/trunk/applications/marketing/widget/sfa/OpportunityScreens.xml
+END

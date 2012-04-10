@@ -1,0 +1,83 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/manufacturing/webapp/manufacturing
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-09T16:17:12.473316Z
+1298904
+jacopoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+index.jsp
+file
+
+
+
+
+2012-04-03T16:25:50.552470Z
+dd5f1ce44fa2d9d045ae76e6de1bd39d
+2007-01-24T17:15:54.112056Z
+499486
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+807
+
+WEB-INF
+dir
+
+routing
+dir
+
+error
+dir
+
+jobshopmgt
+dir
+
+bom
+dir
+
+mrp
+dir
+
+reports
+dir
+

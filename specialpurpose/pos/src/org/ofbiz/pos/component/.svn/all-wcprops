@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/Input.java
+END
+Output.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/757096/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/Output.java
+END
+PromoStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/PromoStatusBar.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1169478/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/Journal.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/836153/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/Operator.java
+END
+PosButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/PosButton.java
+END
+InputWithPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/804895/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/InputWithPassword.java
+END
+PosButtonWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/component/PosButtonWrapper.java
+END

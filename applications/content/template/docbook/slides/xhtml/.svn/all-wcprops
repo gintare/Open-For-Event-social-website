@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml
+END
+tables.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/tables.xsl
+END
+w3c.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/w3c.xsl
+END
+frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/frames.xsl
+END
+jscript.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/jscript.xsl
+END
+graphics.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/graphics.xsl
+END
+param.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/param.xsl
+END
+plain.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/plain.xsl
+END
+default.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/default.xsl
+END
+flat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/flat.xsl
+END
+css.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/css.xsl
+END
+slides-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/slides-common.xsl
+END
+vslides.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/808410/ofbiz/trunk/applications/content/template/docbook/slides/xhtml/vslides.xsl
+END

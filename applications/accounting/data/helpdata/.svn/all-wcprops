@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1092290/ofbiz/trunk/applications/accounting/data/helpdata
+END
+HELP_ACCOUNTING_FinAccountMain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FinAccountMain.xml
+END
+HELP_ACCOUNTING_BankReconciliation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_BankReconciliation.xml
+END
+HELP_ACCOUNTING_PartyAcctgPreference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_PartyAcctgPreference.xml
+END
+HELP_ACCOUNTING_findPayments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_findPayments.xml
+END
+HELP_ACCOUNTING_PaymentsDepositWithdraw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_PaymentsDepositWithdraw.xml
+END
+HELP_ACCOUNTING_EditDepositSlipAndMembers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditDepositSlipAndMembers.xml
+END
+HELP_ACCOUNTING_FindGatewayResponses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1092290/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindGatewayResponses.xml
+END
+HELP_ACCOUNTING_paymentOverview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_paymentOverview.xml
+END
+HELP_ACCOUNTING_EditFinAccountReconciliations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccountReconciliations.xml
+END
+HELP_ACCOUNTING_organization_gl_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_organization_gl_settings.xml
+END
+HELP_ACCOUNTING_EditTaxAuthorityPartyInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthorityPartyInfo.xml
+END
+HELP_ACCOUNTING_EditProductCategoryGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditProductCategoryGlAccounts.xml
+END
+HELP_ACCOUNTING_GlAccountTypeDefaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountTypeDefaults.xml
+END
+HELP_ACCOUNTING_ListAgreementItemParties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementItemParties.xml
+END
+HELP_ACCOUNTING_EditTaxAuthorityRateProducts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthorityRateProducts.xml
+END
+HELP_ACCOUNTING_EditGlAccountCategoryMember.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditGlAccountCategoryMember.xml
+END
+HELP_ACCOUNTING_GlAccountNrPaymentMethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountNrPaymentMethod.xml
+END
+HELP_ACCOUNTING_AuthorizeTransaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/836349/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_AuthorizeTransaction.xml
+END
+HELP_ACCOUNTING_ListAgreementPromoAppls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementPromoAppls.xml
+END
+HELP_ACCOUNTING_findInvoices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_findInvoices.xml
+END
+HELP_ACCOUNTING_EditAgreementRoles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementRoles.xml
+END
+HELP_ACCOUNTING_FindDepositSlips.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/882067/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindDepositSlips.xml
+END
+HELP_ACCOUNTING_EditInvoiceItemType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditInvoiceItemType.xml
+END
+HELP_ACCOUNTING_EditGlAccountCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditGlAccountCategory.xml
+END
+HELP_ACCOUNTING_GlAccountPurInvoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountPurInvoice.xml
+END
+HELP_ACCOUNTING_editPayment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_editPayment.xml
+END
+HELP_ACCOUNTING_payment_gateway_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_payment_gateway_config.xml
+END
+HELP_ACCOUNTING_newPayment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_newPayment.xml
+END
+HELP_ACCOUNTING_EditVarianceReasonGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditVarianceReasonGlAccounts.xml
+END
+HELP_ACCOUNTING_GlAccountSalInvoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountSalInvoice.xml
+END
+HELP_ACCOUNTING_EditPaymentGatewayConfigType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditPaymentGatewayConfigType.xml
+END
+HELP_ACCOUNTING_FindFinAccountReconciliations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindFinAccountReconciliations.xml
+END
+HELP_ACCOUNTING_ListGlAccountOrganization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListGlAccountOrganization.xml
+END
+HELP_ACCOUNTING_SetupGlJournals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_SetupGlJournals.xml
+END
+HELP_ACCOUNTING_invoiceRoles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_invoiceRoles.xml
+END
+HELP_ACCOUNTING_FindPurchaseInvoicesByDueDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindPurchaseInvoicesByDueDate.xml
+END
+HELP_ACCOUNTING_FindFinAccountTrans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/882452/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindFinAccountTrans.xml
+END
+HELP_ACCOUNTING_EditAgreementWorkEffortApplics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementWorkEffortApplics.xml
+END
+HELP_ACCOUNTING_EditCustomTimePeriod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditCustomTimePeriod.xml
+END
+HELP_ACCOUNTING_ListAgreementGeographicalApplic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementGeographicalApplic.xml
+END
+HELP_ACCOUNTING_global_gl_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_global_gl_settings.xml
+END
+HELP_ACCOUNTING_ListAgreementItemProducts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementItemProducts.xml
+END
+HELP_ACCOUNTING_sendPerEmail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_sendPerEmail.xml
+END
+HELP_ACCOUNTING_editInvoiceApplications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_editInvoiceApplications.xml
+END
+HELP_ACCOUNTING_ListCompanies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListCompanies.xml
+END
+HELP_ACCOUNTING_FindPaymentGatewayConfigTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindPaymentGatewayConfigTypes.xml
+END
+HELP_ACCOUNTING_EditTaxAuthority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthority.xml
+END
+HELP_ACCOUNTING_editInvoiceTimeEntries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_editInvoiceTimeEntries.xml
+END
+HELP_ACCOUNTING_EditAgreementItemParty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementItemParty.xml
+END
+HELP_ACCOUNTING_EditAgreementGeographicalApplic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementGeographicalApplic.xml
+END
+HELP_ACCOUNTING_BillingAccountOrders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_BillingAccountOrders.xml
+END
+HELP_ACCOUNTING_tax_authorities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_tax_authorities.xml
+END
+HELP_ACCOUNTING_FindGlAccountCategory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindGlAccountCategory.xml
+END
+HELP_ACCOUNTING_EditBillingAccountTerms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/880651/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditBillingAccountTerms.xml
+END
+HELP_ACCOUNTING_GlAccountTypePaymentType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountTypePaymentType.xml
+END
+HELP_ACCOUNTING_ManualTransaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ManualTransaction.xml
+END
+HELP_ACCOUNTING_invoiceOverview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_invoiceOverview.xml
+END
+HELP_ACCOUNTING_EditCostCalcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditCostCalcs.xml
+END
+HELP_ACCOUNTING_EditPaymentMethodType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditPaymentMethodType.xml
+END
+HELP_ACCOUNTING_ListTaxAuthorityParties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListTaxAuthorityParties.xml
+END
+HELP_ACCOUNTING_FindFinAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindFinAccount.xml
+END
+HELP_ACCOUNTING_ListAgreementItemSupplierProducts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementItemSupplierProducts.xml
+END
+HELP_ACCOUNTING_EditPaymentGatewayConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditPaymentGatewayConfig.xml
+END
+HELP_ACCOUNTING_CostCenters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_CostCenters.xml
+END
+HELP_ACCOUNTING_EditAgreementItemProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementItemProduct.xml
+END
+HELP_ACCOUNTING_FindSalesInvoicesByDueDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindSalesInvoicesByDueDate.xml
+END
+HELP_ACCOUNTING_EditCreditCardTypeGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditCreditCardTypeGlAccounts.xml
+END
+HELP_ACCOUNTING_EditFinAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccount.xml
+END
+HELP_ACCOUNTING_payments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_payments.xml
+END
+HELP_ACCOUNTING_FindGlobalGlAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindGlobalGlAccount.xml
+END
+HELP_ACCOUNTING_editInvoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_editInvoice.xml
+END
+HELP_ACCOUNTING_EditFinAccountRoles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccountRoles.xml
+END
+HELP_ACCOUNTING_EditPartyGlAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditPartyGlAccount.xml
+END
+HELP_ACCOUNTING_newInvoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_newInvoice.xml
+END
+HELP_ACCOUNTING_EditFinAccountTrans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccountTrans.xml
+END
+HELP_ACCOUNTING_EditProductGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditProductGlAccounts.xml
+END
+HELP_ACCOUNTING_CaptureTransaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_CaptureTransaction.xml
+END
+HELP_ACCOUNTING_ViewGatewayResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ViewGatewayResponse.xml
+END
+HELP_ACCOUNTING_EditAgreement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreement.xml
+END
+HELP_ACCOUNTING_PartyAccountsSummary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_PartyAccountsSummary.xml
+END
+HELP_ACCOUNTING_NewWithdrawalPayment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_NewWithdrawalPayment.xml
+END
+HELP_ACCOUNTING_billing_accounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_billing_accounts.xml
+END
+HELP_ACCOUNTING_invoices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_invoices.xml
+END
+HELP_ACCOUNTING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/818327/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING.xml
+END
+HELP_ACCOUNTING_EditTaxAuthorityCategories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthorityCategories.xml
+END
+HELP_ACCOUNTING_EditAgreementItemSupplierProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementItemSupplierProduct.xml
+END
+HELP_ACCOUNTING_EditFinAccountTypeGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccountTypeGlAccounts.xml
+END
+HELP_ACCOUNTING_EditAgreementTerms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementTerms.xml
+END
+HELP_ACCOUNTING_agreements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_agreements.xml
+END
+HELP_ACCOUNTING_EditAgreementItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementItem.xml
+END
+HELP_ACCOUNTING_ViewRateAmounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ViewRateAmounts.xml
+END
+HELP_ACCOUNTING_FindBillingAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindBillingAccount.xml
+END
+HELP_ACCOUNTING_EditTaxAuthorityGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthorityGlAccounts.xml
+END
+HELP_ACCOUNTING_GlAccountNavigate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_GlAccountNavigate.xml
+END
+HELP_ACCOUNTING_payment_gateway.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_payment_gateway.xml
+END
+HELP_ACCOUNTING_ViewFXConversions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ViewFXConversions.xml
+END
+HELP_ACCOUNTING_EditBillingAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/880651/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditBillingAccount.xml
+END
+HELP_ACCOUNTING_EditFinAccountAuths.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditFinAccountAuths.xml
+END
+HELP_ACCOUNTING_ListAgreementItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementItems.xml
+END
+HELP_ACCOUNTING_FindTaxAuthority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindTaxAuthority.xml
+END
+HELP_ACCOUNTING_FindAgreement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindAgreement.xml
+END
+HELP_ACCOUNTING_EditBillingAccountRoles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/836349/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditBillingAccountRoles.xml
+END
+HELP_ACCOUNTING_NewDepositSlip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_NewDepositSlip.xml
+END
+HELP_ACCOUNTING_Features.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_Features.xml
+END
+HELP_ACCOUNTING_BillingAccountPayments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/880651/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_BillingAccountPayments.xml
+END
+HELP_ACCOUNTING_NewDepositPayment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/881845/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_NewDepositPayment.xml
+END
+HELP_ACCOUNTING_PaymentMethodType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_PaymentMethodType.xml
+END
+HELP_ACCOUNTING_ViewGlReconciliationWithTransaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ViewGlReconciliationWithTransaction.xml
+END
+HELP_ACCOUNTING_EditOrganizationTaxAuthorityGlAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditOrganizationTaxAuthorityGlAccounts.xml
+END
+HELP_ACCOUNTING_financial_accounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_financial_accounts.xml
+END
+HELP_PORTLET_ListBankAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/824216/ofbiz/trunk/applications/accounting/data/helpdata/HELP_PORTLET_ListBankAccount.xml
+END
+HELP_ACCOUNTING_EditAgreementItemTerm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditAgreementItemTerm.xml
+END
+HELP_ACCOUNTING_AssignGlAccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_AssignGlAccount.xml
+END
+HELP_ACCOUNTING_TimePeriods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_TimePeriods.xml
+END
+HELP_ACCOUNTING_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/818327/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_main.xml
+END
+HELP_ACCOUNTING_FindPaymentGatewayConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_FindPaymentGatewayConfig.xml
+END
+HELP_ACCOUNTING_EditTaxAuthorityAssocs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_EditTaxAuthorityAssocs.xml
+END
+HELP_ACCOUNTING_editPaymentApplications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_editPaymentApplications.xml
+END
+HELP_ACCOUNTING_listInvoiceItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_listInvoiceItems.xml
+END
+HELP_ACCOUNTING_BillingAccountInvoices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/881178/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_BillingAccountInvoices.xml
+END
+HELP_ACCOUNTING_ListAgreementItemTerms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/helpdata/HELP_ACCOUNTING_ListAgreementItemTerms.xml
+END

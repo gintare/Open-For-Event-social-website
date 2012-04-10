@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/accounting/src/org/ofbiz/accounting/invoice
+END
+InvoiceServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/accounting/src/org/ofbiz/accounting/invoice/InvoiceServices.java
+END
+InvoiceWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1126071/ofbiz/trunk/applications/accounting/src/org/ofbiz/accounting/invoice/InvoiceWorker.java
+END

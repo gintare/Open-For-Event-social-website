@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/935487/ofbiz/trunk/applications/product/src/org/ofbiz/product/test
+END
+InventoryItemTransferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/804895/ofbiz/trunk/applications/product/src/org/ofbiz/product/test/InventoryItemTransferTest.java
+END
+StockMovesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/935487/ofbiz/trunk/applications/product/src/org/ofbiz/product/test/StockMovesTest.java
+END

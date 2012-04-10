@@ -1,0 +1,73 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/product/src/org/ofbiz/product
+http://svn.apache.org/repos/asf
+
+
+
+2012-04-01T10:35:09.413916Z
+1308063
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+test
+dir
+
+imagemanagement
+dir
+
+product
+dir
+
+image
+dir
+
+subscription
+dir
+
+feature
+dir
+
+store
+dir
+
+promo
+dir
+
+inventory
+dir
+
+spreadsheetimport
+dir
+
+price
+dir
+
+supplier
+dir
+
+config
+dir
+
+catalog
+dir
+
+category
+dir
+

@@ -1,0 +1,153 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/specialpurpose
+http://svn.apache.org/repos/asf
+
+
+
+2012-04-03T16:06:29.968990Z
+1309009
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+ldap
+dir
+
+ebay
+dir
+
+hhfacility
+dir
+
+scrum
+dir
+
+ofbizwebsite
+dir
+
+ebaystore
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:32:04.232505Z
+d54a75d2b1dac7f55258b97fffc8de65
+2011-07-06T10:14:46.428631Z
+1143327
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3704
+
+ecommerce
+dir
+
+webpos
+dir
+
+pos
+dir
+
+oagis
+dir
+
+googlecheckout
+dir
+
+myportal
+dir
+
+googlebase
+dir
+
+cmssite
+dir
+
+assetmaint
+dir
+
+shark
+dir
+
+workflow
+dir
+
+projectmgr
+dir
+
+crowd
+dir
+
+component-load.xml
+file
+
+
+
+
+2012-04-03T16:32:04.232505Z
+643eb72fe265800a1db4681e44347ae3
+2011-07-05T08:15:32.486368Z
+1142915
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2227
+

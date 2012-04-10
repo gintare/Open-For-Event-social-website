@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1167117/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo
+END
+ArtifactInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/981019/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ArtifactInfoFactory.java
+END
+FormWidgetArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/833731/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/FormWidgetArtifactInfo.java
+END
+ServiceEcaArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ServiceEcaArtifactInfo.java
+END
+ArtifactInfoBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1167117/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ArtifactInfoBase.java
+END
+ControllerRequestArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ControllerRequestArtifactInfo.java
+END
+EntityArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/EntityArtifactInfo.java
+END
+ControllerViewArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ControllerViewArtifactInfo.java
+END
+ServiceArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ServiceArtifactInfo.java
+END
+ScreenWidgetArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/833731/ofbiz/trunk/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ScreenWidgetArtifactInfo.java
+END

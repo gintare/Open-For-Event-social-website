@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1224689/ofbiz/trunk/applications/product/script/org/ofbiz/product/test
+END
+CategoryTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/907450/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/CategoryTests.xml
+END
+InventoryTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/InventoryTests.xml
+END
+ProductPriceTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/981698/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/ProductPriceTests.xml
+END
+GroupOrderTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1224671/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/GroupOrderTest.xml
+END
+CostTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/909985/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/CostTests.xml
+END
+ProductTagTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1224689/ofbiz/trunk/applications/product/script/org/ofbiz/product/test/ProductTagTest.xml
+END

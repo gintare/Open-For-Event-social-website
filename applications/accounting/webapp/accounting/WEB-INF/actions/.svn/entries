@@ -1,0 +1,55 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions
+http://svn.apache.org/repos/asf
+
+
+
+2011-10-09T16:32:08.754984Z
+1180643
+hansbak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+fixedasset
+dir
+
+period
+dir
+
+transaction
+dir
+
+chartofaccounts
+dir
+
+admin
+dir
+
+order
+dir
+
+invoice
+dir
+
+payment
+dir
+
+reports
+dir
+

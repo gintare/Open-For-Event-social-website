@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl
+END
+Keyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/Keyboard.java
+END
+Msr.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/Msr.java
+END
+CashDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/CashDrawer.java
+END
+SignatureCapture.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/SignatureCapture.java
+END
+CheckScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/CheckScanner.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/Scanner.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/Journal.java
+END
+PinPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/PinPad.java
+END
+Receipt.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/Receipt.java
+END
+LineDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos/device/impl/LineDisplay.java
+END

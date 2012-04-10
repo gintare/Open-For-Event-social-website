@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1127281/ofbiz/trunk/framework/security/src/org/ofbiz/security/authz
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/security/src/org/ofbiz/security/authz/Authorization.java
+END
+AbstractAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1127281/ofbiz/trunk/framework/security/src/org/ofbiz/security/authz/AbstractAuthorization.java
+END
+AuthorizationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/security/src/org/ofbiz/security/authz/AuthorizationFactory.java
+END
+EntityAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/security/src/org/ofbiz/security/authz/EntityAuthorization.java
+END

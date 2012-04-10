@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1230444/ofbiz/trunk/framework/base/src/org/ofbiz/base/container
+END
+ClassLoaderContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/757046/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/ClassLoaderContainer.java
+END
+BeanShellContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/883507/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/BeanShellContainer.java
+END
+GroovyShellContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1062476/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/GroovyShellContainer.java
+END
+ContainerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/894106/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/ContainerException.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1084202/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/Container.java
+END
+ComponentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1230444/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/ComponentContainer.java
+END
+ContainerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1076469/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/ContainerConfig.java
+END
+ContainerLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1128028/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/ContainerLoader.java
+END
+JunitContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/831550/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/JunitContainer.java
+END
+NamingServiceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/814390/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/NamingServiceContainer.java
+END
+JustLoadComponentsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/base/src/org/ofbiz/base/container/JustLoadComponentsContainer.java
+END

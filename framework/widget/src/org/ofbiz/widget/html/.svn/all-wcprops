@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html
+END
+HtmlFormRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlFormRenderer.java
+END
+HtmlWidgetRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/946431/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlWidgetRenderer.java
+END
+HtmlMenuRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1230478/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlMenuRenderer.java
+END
+HtmlMenuRendererImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlMenuRendererImage.java
+END
+HtmlFormWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlFormWrapper.java
+END
+HtmlMenuWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlMenuWrapper.java
+END
+HtmlScreenRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlScreenRenderer.java
+END
+HtmlTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlTreeRenderer.java
+END
+HtmlMenuWrapperImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/981019/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/html/HtmlMenuWrapperImage.java
+END

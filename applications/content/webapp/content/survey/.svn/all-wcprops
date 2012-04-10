@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1160233/ofbiz/trunk/applications/content/webapp/content/survey
+END
+EditSurveyQuestions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/content/webapp/content/survey/EditSurveyQuestions.ftl
+END
+EditSurveyResponse.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/933145/ofbiz/trunk/applications/content/webapp/content/survey/EditSurveyResponse.ftl
+END
+ViewSurveyResponses.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/935263/ofbiz/trunk/applications/content/webapp/content/survey/ViewSurveyResponses.ftl
+END

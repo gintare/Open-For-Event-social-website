@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache
+END
+EntityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/881669/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/EntityCache.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/771123/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/Cache.java
+END
+AbstractCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/883225/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/AbstractCache.java
+END
+EntityObjectCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/EntityObjectCache.java
+END
+AbstractEntityConditionCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/AbstractEntityConditionCache.java
+END
+EntityListCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/759234/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/cache/EntityListCache.java
+END

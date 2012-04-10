@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1294450/ofbiz/trunk/framework/birt/lib
+END
+org.eclipse.osgi_3.7.2.v20120110-1415.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.osgi_3.7.2.v20120110-1415.jar
+END
+org.eclipse.datatools.connectivity.oda_3.3.3.v201110130935.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.datatools.connectivity.oda_3.3.3.v201110130935.jar
+END
+org.w3c.dom.smil_1.0.0.v200806040011.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.w3c.dom.smil_1.0.0.v200806040011.jar
+END
+org.eclipse.emf_2.6.0.v20120123-1045.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.emf_2.6.0.v20120123-1045.jar
+END
+org.eclipse.emf.ecore.xmi_2.7.0.v20120123-0926.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.emf.ecore.xmi_2.7.0.v20120123-0926.jar
+END
+org.apache.xml.resolver_1.2.0.v201005080400.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.apache.xml.resolver_1.2.0.v201005080400.jar
+END
+org.eclipse.core.filesystem_1.3.100.v20110423-0524.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.filesystem_1.3.100.v20110423-0524.jar
+END
+org.eclipse.equinox.preferences_3.4.2.v20120111-2020.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.equinox.preferences_3.4.2.v20120111-2020.jar
+END
+org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/897030/ofbiz/trunk/framework/birt/lib/jaxrpc.jar
+END
+org.apache.xml.serializer_2.7.1.v201005080400.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.apache.xml.serializer_2.7.1.v201005080400.jar
+END
+org.eclipse.birt.runtime_3.7.2.v20120214-1408.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.birt.runtime_3.7.2.v20120214-1408.jar
+END
+org.eclipse.update.configurator_3.3.100.v20100512.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.update.configurator_3.3.100.v20100512.jar
+END
+org.eclipse.core.jobs_3.5.101.v20120113-1953.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.jobs_3.5.101.v20120113-1953.jar
+END
+org.eclipse.emf.ecore.change_2.7.1.v20120123-0926.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.emf.ecore.change_2.7.1.v20120123-0926.jar
+END
+org.w3c.dom.svg_1.1.0.v201011041433.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.w3c.dom.svg_1.1.0.v201011041433.jar
+END
+org.w3c.css.sac_1.3.0.v200805290154.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.w3c.css.sac_1.3.0.v200805290154.jar
+END
+org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar
+END
+org.eclipse.emf.common_2.7.0.v20120123-0926.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.emf.common_2.7.0.v20120123-0926.jar
+END
+Tidy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/Tidy.jar
+END
+org.eclipse.core.resources_3.7.101.v20120125-1505.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.resources_3.7.101.v20120125-1505.jar
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/js.jar
+END
+org.eclipse.emf.ecore_2.7.0.v20120123-0926.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.emf.ecore_2.7.0.v20120123-0926.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/897030/ofbiz/trunk/framework/birt/lib/saaj.jar
+END
+org.eclipse.equinox.app_1.3.100.v20110321.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.equinox.app_1.3.100.v20110321.jar
+END
+flute.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/flute.jar
+END
+org.eclipse.core.runtime_3.7.0.v20110110.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.runtime_3.7.0.v20110110.jar
+END
+org.eclipse.core.expressions_3.4.300.v20110228.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.core.expressions_3.4.300.v20110228.jar
+END
+org.eclipse.osgi.services_3.3.0.v20110513.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.osgi.services_3.3.0.v20110513.jar
+END
+org.eclipse.equinox.common_3.6.0.v20110523.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/org.eclipse.equinox.common_3.6.0.v20110523.jar
+END
+viewservlets.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/lib/viewservlets.jar
+END

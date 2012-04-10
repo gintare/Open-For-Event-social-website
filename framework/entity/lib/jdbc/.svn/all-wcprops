@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1195187/ofbiz/trunk/framework/entity/lib/jdbc
+END
+derby-10.8.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1195187/ofbiz/trunk/framework/entity/lib/jdbc/derby-10.8.2.2.jar
+END
+derbytools-10.8.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1195187/ofbiz/trunk/framework/entity/lib/jdbc/derbytools-10.8.2.2.jar
+END

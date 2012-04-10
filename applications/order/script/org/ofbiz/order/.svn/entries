@@ -1,0 +1,98 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/order/script/org/ofbiz/order
+http://svn.apache.org/repos/asf
+
+
+
+2012-02-27T19:26:23.247329Z
+1294291
+jacopoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+test
+dir
+
+requirement
+dir
+
+customer
+dir
+
+shoppinglist
+dir
+
+communication
+dir
+
+request
+dir
+
+thirdparty
+dir
+
+UpgradeServices.xml
+file
+
+
+
+
+2012-04-03T16:26:43.952469Z
+06499207a8eebc08f86d534f299f3cf8
+2010-03-18T11:05:49.588268Z
+924707
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6388
+
+olap
+dir
+
+order
+dir
+
+opportunity
+dir
+
+quote
+dir
+
+reports
+dir
+

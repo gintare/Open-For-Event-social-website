@@ -1,0 +1,126 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/specialpurpose/ebaystore
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-14T06:07:52.615697Z
+1300463
+ashish
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:31:58.944469Z
+20a62d8d682de08c3068d3227cdf77b3
+2010-05-07T04:45:38.722993Z
+941999
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2271
+
+data
+dir
+
+entitydef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:31:58.944469Z
+2a3fc7b400dee00ed7ffddf15cc22332
+2010-03-17T17:28:01.837000Z
+924378
+lektran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2639
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1180643/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment
+END
+ListNotAppliedInvoices.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1180643/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/ListNotAppliedInvoices.groovy
+END
+ListNotAppliedPayments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/ListNotAppliedPayments.groovy
+END
+PrintChecks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/PrintChecks.groovy
+END
+BillingAccounts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/BillingAccounts.groovy
+END
+DepositWithdrawPayments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/832312/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/DepositWithdrawPayments.groovy
+END
+ManualTx.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/769510/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/ManualTx.groovy
+END
+PaymentReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/webapp/accounting/WEB-INF/actions/payment/PaymentReport.groovy
+END

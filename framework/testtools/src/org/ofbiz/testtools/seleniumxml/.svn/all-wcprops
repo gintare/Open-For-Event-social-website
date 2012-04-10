@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1202872/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml
+END
+GroovyRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/GroovyRunner.java
+END
+InitJython.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/InitJython.java
+END
+DataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/DataLoader.java
+END
+SeleniumXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1126734/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/SeleniumXml.java
+END
+DataLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/982870/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/DataLoop.java
+END
+RemoteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1202872/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/RemoteRequest.java
+END
+JythonRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/JythonRunner.java
+END
+TestCaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1081103/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/TestCaseException.java
+END
+SeleniumIDEConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/887126/ofbiz/trunk/framework/testtools/src/org/ofbiz/testtools/seleniumxml/SeleniumIDEConverter.java
+END

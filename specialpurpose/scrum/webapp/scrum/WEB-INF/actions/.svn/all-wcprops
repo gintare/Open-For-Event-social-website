@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1206107/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions
+END
+ListScrumRolesPersonAndCompany.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListScrumRolesPersonAndCompany.groovy
+END
+AddProductBacklogItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/AddProductBacklogItem.groovy
+END
+BacklogNotifications.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/BacklogNotifications.groovy
+END
+ListScrumResource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListScrumResource.groovy
+END
+TaskList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/TaskList.groovy
+END
+FindTaskList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/FindTaskList.groovy
+END
+SprintBacklogListItems.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/SprintBacklogListItems.groovy
+END
+ListCurrentSprints.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListCurrentSprints.groovy
+END
+ListCurrentProducts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListCurrentProducts.groovy
+END
+EditDailyHourReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/EditDailyHourReport.groovy
+END
+AddResourceTaskParty.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/AddResourceTaskParty.groovy
+END
+ListTimeSheets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListTimeSheets.groovy
+END
+QuickAddBacklog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/QuickAddBacklog.groovy
+END
+EditWeekTimesheet.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/EditWeekTimesheet.groovy
+END
+ListUnplanBacklog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListUnplanBacklog.groovy
+END
+SprintBacklogOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/SprintBacklogOptions.groovy
+END
+ProductBilling.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ProductBilling.groovy
+END
+FindBacklogItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/FindBacklogItem.groovy
+END
+FindProductBacklogItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1153071/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/FindProductBacklogItem.groovy
+END
+ProductEmail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ProductEmail.groovy
+END
+ListScrumPreferenceSecurityGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1206107/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListScrumPreferenceSecurityGroup.groovy
+END
+ListRevision.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/webapp/scrum/WEB-INF/actions/ListRevision.groovy
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1160101/ofbiz/trunk/specialpurpose/ebaystore/data
+END
+EbayStoreHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1160101/ofbiz/trunk/specialpurpose/ebaystore/data/EbayStoreHelpData.xml
+END
+EbayStorePortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/953014/ofbiz/trunk/specialpurpose/ebaystore/data/EbayStorePortletData.xml
+END
+EbayStoreTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/984366/ofbiz/trunk/specialpurpose/ebaystore/data/EbayStoreTypeData.xml
+END
+DemoEbayStoreData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1094281/ofbiz/trunk/specialpurpose/ebaystore/data/DemoEbayStoreData.xml
+END
+EbayStoreSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/905876/ofbiz/trunk/specialpurpose/ebaystore/data/EbayStoreSecurityData.xml
+END

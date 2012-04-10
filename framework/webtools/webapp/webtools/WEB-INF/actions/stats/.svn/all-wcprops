@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/stats
+END
+StatsSinceStart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/stats/StatsSinceStart.groovy
+END
+StatBinsHistory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/stats/StatBinsHistory.groovy
+END

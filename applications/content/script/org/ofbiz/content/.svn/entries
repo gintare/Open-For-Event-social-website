@@ -1,0 +1,86 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/content/script/org/ofbiz/content
+http://svn.apache.org/repos/asf
+
+
+
+2011-11-15T11:55:54.749842Z
+1202142
+hansbak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+website
+dir
+
+blog
+dir
+
+compdoc
+dir
+
+ContentManagementMapProcessors.xml
+file
+
+
+
+
+2012-04-03T16:25:54.984469Z
+58438b619c31aded694e53c4719c46f9
+2010-12-19T17:12:48.177659Z
+1050902
+mrisaliti
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14707
+
+permission
+dir
+
+data
+dir
+
+content
+dir
+
+layout
+dir
+
+survey
+dir
+

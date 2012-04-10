@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester
+END
+ServiceRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/757111/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester/ServiceRequester.java
+END
+MailRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/757111/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester/MailRequester.java
+END
+AbstractRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/884347/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester/AbstractRequester.java
+END
+LoggingRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester/LoggingRequester.java
+END
+SimpleRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/757111/ofbiz/trunk/specialpurpose/shark/src/org/ofbiz/shark/requester/SimpleRequester.java
+END

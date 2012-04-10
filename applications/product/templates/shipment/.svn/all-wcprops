@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/product/templates/shipment
+END
+FedexShipRequestTemplate.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/product/templates/shipment/FedexShipRequestTemplate.xml.ftl
+END
+FedexSubscriptionRequestTemplate.xml.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/product/templates/shipment/FedexSubscriptionRequestTemplate.xml.ftl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1230793/ofbiz/trunk/specialpurpose/scrum/templates
+END
+ClosedSprintNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1230793/ofbiz/trunk/specialpurpose/scrum/templates/ClosedSprintNotification.ftl
+END
+AcceptedBacklogNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/templates/AcceptedBacklogNotification.ftl
+END
+ActiveSprintNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/templates/ActiveSprintNotification.ftl
+END
+CancelledBacklogNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1230793/ofbiz/trunk/specialpurpose/scrum/templates/CancelledBacklogNotification.ftl
+END
+ReviewedBacklogNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/templates/ReviewedBacklogNotification.ftl
+END
+CompletedBacklogNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1142915/ofbiz/trunk/specialpurpose/scrum/templates/CompletedBacklogNotification.ftl
+END

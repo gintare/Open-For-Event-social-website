@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1230689/ofbiz/trunk/applications/workeffort/servicedef
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1230689/ofbiz/trunk/applications/workeffort/servicedef/services.xml
+END
+services_timesheet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/workeffort/servicedef/services_timesheet.xml
+END
+services_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/965918/ofbiz/trunk/applications/workeffort/servicedef/services_upgrade.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/776217/ofbiz/trunk/applications/workeffort/servicedef/secas.xml
+END
+service_groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/workeffort/servicedef/service_groups.xml
+END

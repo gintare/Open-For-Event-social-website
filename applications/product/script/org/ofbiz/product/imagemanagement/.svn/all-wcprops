@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1303662/ofbiz/trunk/applications/product/script/org/ofbiz/product/imagemanagement
+END
+ImageManagementServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1303662/ofbiz/trunk/applications/product/script/org/ofbiz/product/imagemanagement/ImageManagementServices.xml
+END
+ImageManagementEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1303328/ofbiz/trunk/applications/product/script/org/ofbiz/product/imagemanagement/ImageManagementEvents.xml
+END

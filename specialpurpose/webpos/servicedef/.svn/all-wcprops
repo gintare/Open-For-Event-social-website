@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef
+END
+services_payment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_payment.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services.xml
+END
+services_customer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_customer.xml
+END
+services_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_search.xml
+END
+services_cart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_cart.xml
+END
+services_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_manager.xml
+END
+services_promo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1125951/ofbiz/trunk/specialpurpose/webpos/servicedef/services_promo.xml
+END

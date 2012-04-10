@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1072301/ofbiz/trunk/framework/entity/fieldtype
+END
+fieldtypeadvantage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypeadvantage.xml
+END
+fieldtypeaxion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypeaxion.xml
+END
+fieldtypemssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypemssql.xml
+END
+fieldtypepostnew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypepostnew.xml
+END
+fieldtypederby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypederby.xml
+END
+fieldtypemysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1072301/ofbiz/trunk/framework/entity/fieldtype/fieldtypemysql.xml
+END
+fieldtypeoracle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypeoracle.xml
+END
+fieldtypefirebird.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypefirebird.xml
+END
+fieldtypepostgres.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypepostgres.xml
+END
+fieldtypesybase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypesybase.xml
+END
+fieldtypehsql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypehsql.xml
+END
+fieldtypedaffodil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypedaffodil.xml
+END
+fieldtypesapdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/959708/ofbiz/trunk/framework/entity/fieldtype/fieldtypesapdb.xml
+END

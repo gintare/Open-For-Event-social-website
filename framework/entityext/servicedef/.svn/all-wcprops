@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/765864/ofbiz/trunk/framework/entityext/servicedef
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/765864/ofbiz/trunk/framework/entityext/servicedef/services.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/entityext/servicedef/secas.xml
+END
+groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/entityext/servicedef/groups.xml
+END

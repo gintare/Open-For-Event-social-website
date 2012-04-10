@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1300815/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util
+END
+EntityListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/897605/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityListIterator.java
+END
+ByteWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1068647/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/ByteWrapper.java
+END
+SequenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1144537/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/SequenceUtil.java
+END
+EntityUtilProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1300815/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityUtilProperties.java
+END
+CachedClassLoaderInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/CachedClassLoaderInit.java
+END
+EntityDataAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1069072/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityDataAssert.java
+END
+EntityFindOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1068649/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityFindOptions.java
+END
+Converters.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/835476/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/Converters.java
+END
+EntityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1079456/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityUtil.java
+END
+EntitySaxReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/981028/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntitySaxReader.java
+END
+EntityTypeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/981446/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityTypeUtil.java
+END
+DistributedCacheClear.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/DistributedCacheClear.java
+END
+EntityCrypto.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/821643/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityCrypto.java
+END
+EntityDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1173994/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityDataLoader.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1234015/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config
+END
+EntityConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1234015/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/EntityConfigUtil.java
+END
+NamedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/NamedInfo.java
+END
+FieldTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/759234/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/FieldTypeInfo.java
+END
+DelegatorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/804131/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/DelegatorInfo.java
+END
+ResourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/ResourceInfo.java
+END
+EntityEcaReaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/EntityEcaReaderInfo.java
+END
+EntityDataReaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/EntityDataReaderInfo.java
+END
+DatasourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1139700/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/DatasourceInfo.java
+END
+EntityGroupReaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/EntityGroupReaderInfo.java
+END
+ResourceLoaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/ResourceLoaderInfo.java
+END
+EntityModelReaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/config/EntityModelReaderInfo.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/specialpurpose/myportal/widget
+END
+RegisterPerson.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1071338/ofbiz/trunk/specialpurpose/myportal/widget/RegisterPerson.ftl
+END
+reloadCaptchaImage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1042250/ofbiz/trunk/specialpurpose/myportal/widget/reloadCaptchaImage.ftl
+END
+reloadCaptchaCode.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1042250/ofbiz/trunk/specialpurpose/myportal/widget/reloadCaptchaCode.ftl
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1232003/ofbiz/trunk/specialpurpose/myportal/widget/CommonScreens.xml
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1042250/ofbiz/trunk/specialpurpose/myportal/widget/login.ftl
+END
+MyPortalForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/specialpurpose/myportal/widget/MyPortalForms.xml
+END
+MyPortalMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/965918/ofbiz/trunk/specialpurpose/myportal/widget/MyPortalMenus.xml
+END

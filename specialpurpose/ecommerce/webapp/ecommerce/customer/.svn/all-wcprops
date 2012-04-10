@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1305038/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer
+END
+viewprofile.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305038/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/viewprofile.ftl
+END
+editcontactmech.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/806206/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/editcontactmech.ftl
+END
+newmsg.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/823855/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/newmsg.ftl
+END
+giftcardlink.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/932719/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/giftcardlink.ftl
+END
+editeftaccount.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/932719/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/editeftaccount.ftl
+END
+miniSignUpForContactList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159524/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/miniSignUpForContactList.ftl
+END
+SubscriptionSummary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/923545/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/SubscriptionSummary.ftl
+END
+messagedetail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/936817/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/messagedetail.ftl
+END
+changepassword.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/changepassword.ftl
+END
+editcreditcard.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/923545/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/editcreditcard.ftl
+END
+digitalproductlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/923545/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/digitalproductlist.ftl
+END
+newcustomer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1224876/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/newcustomer.ftl
+END
+editperson.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/945118/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/editperson.ftl
+END
+FinAccountDetail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/754529/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/FinAccountDetail.ftl
+END
+AnonContactus.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1052449/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/AnonContactus.ftl
+END
+customersurvey.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/821476/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/customersurvey.ftl
+END
+viewreviews.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305038/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/viewreviews.ftl
+END
+messagelist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1037507/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/messagelist.ftl
+END
+digitalproductedit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/932719/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/digitalproductedit.ftl
+END
+SerializedInventorySummary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/821476/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/SerializedInventorySummary.ftl
+END
+giftcardbalance.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/932719/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/giftcardbalance.ftl
+END
+editgiftcard.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/932719/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/customer/editgiftcard.ftl
+END

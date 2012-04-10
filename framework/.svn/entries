@@ -1,0 +1,177 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/framework
+http://svn.apache.org/repos/asf
+
+
+
+2012-04-03T16:06:29.968990Z
+1309009
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+geronimo
+dir
+
+widget
+dir
+
+guiapp
+dir
+
+common
+dir
+
+bi
+dir
+
+example
+dir
+
+entityext
+dir
+
+start
+dir
+
+minilang
+dir
+
+webtools
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:31:48.508469Z
+34673f7420c8a4735a794e6f7504239f
+2012-03-23T14:26:32.871391Z
+1304369
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7016
+
+jetty
+dir
+
+sql
+dir
+
+birt
+dir
+
+service
+dir
+
+testtools
+dir
+
+documents
+dir
+
+images
+dir
+
+appserver
+dir
+
+security
+dir
+
+datafile
+dir
+
+base
+dir
+
+resources
+dir
+
+exampleext
+dir
+
+entity
+dir
+
+catalina
+dir
+
+jcr
+dir
+
+webapp
+dir
+
+component-load.xml
+file
+
+
+
+
+2012-04-03T16:31:48.508469Z
+7eb0860c478b4794daf50d66642669c9
+2012-03-17T05:35:45.078118Z
+1301866
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2206
+

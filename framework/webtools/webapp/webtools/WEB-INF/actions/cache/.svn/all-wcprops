@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/992682/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/cache
+END
+FindUtilCacheElements.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/992682/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/cache/FindUtilCacheElements.groovy
+END
+FindUtilCache.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/992682/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/cache/FindUtilCache.groovy
+END
+EditUtilCache.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/929813/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions/cache/EditUtilCache.groovy
+END

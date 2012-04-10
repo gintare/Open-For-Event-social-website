@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1306745/ofbiz/trunk/applications/party/script/org/ofbiz/party/party
+END
+PartyServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1306745/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartyServices.xml
+END
+PartyMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/812312/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartyMapProcs.xml
+END
+PartyInvitationServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartyInvitationServices.xml
+END
+PartyPermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartyPermissionServices.xml
+END
+PartySimpleMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1054857/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartySimpleMethods.xml
+END
+PartySimpleEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1199681/ofbiz/trunk/applications/party/script/org/ofbiz/party/party/PartySimpleEvents.xml
+END

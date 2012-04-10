@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1294291/ofbiz/trunk/applications/order/script/org/ofbiz/order
+END
+UpgradeServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/924707/ofbiz/trunk/applications/order/script/org/ofbiz/order/UpgradeServices.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/product/src/org/ofbiz/shipment/shipment
+END
+ShipmentWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/applications/product/src/org/ofbiz/shipment/shipment/ShipmentWorker.java
+END
+ShipmentServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1300463/ofbiz/trunk/applications/product/src/org/ofbiz/shipment/shipment/ShipmentServices.java
+END
+ShipmentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/935487/ofbiz/trunk/applications/product/src/org/ofbiz/shipment/shipment/ShipmentEvents.java
+END
+ShipmentScheduledNotice.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/499486/ofbiz/trunk/applications/product/src/org/ofbiz/shipment/shipment/ShipmentScheduledNotice.ftl
+END

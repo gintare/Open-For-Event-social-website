@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1205156/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model
+END
+ModelGroupReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1068634/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelGroupReader.java
+END
+ModelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1139922/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelField.java
+END
+ModelChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1068632/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelChild.java
+END
+ModelFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1078210/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelFieldType.java
+END
+ModelKeyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1068641/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelKeyMap.java
+END
+ModelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1095029/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelInfo.java
+END
+DynamicViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1139922/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/DynamicViewEntity.java
+END
+ModelEntityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1042792/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelEntityChecker.java
+END
+ModelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelReader.java
+END
+ModelViewEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1205156/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelViewEntity.java
+END
+ModelIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1068637/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelIndex.java
+END
+ModelFieldTypeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/918732/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelFieldTypeReader.java
+END
+ModelEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1068631/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelEntity.java
+END
+ModelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/894106/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelUtil.java
+END
+ModelRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1170961/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/model/ModelRelation.java
+END

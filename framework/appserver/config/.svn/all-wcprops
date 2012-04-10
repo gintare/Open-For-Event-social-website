@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/1309009/ofbiz/trunk/framework/appserver/config
+END
+appserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1309009/ofbiz/trunk/framework/appserver/config/appserver.properties
+END
+ofbiz-containers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/config/ofbiz-containers.xml
+END

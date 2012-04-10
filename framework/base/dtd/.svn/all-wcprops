@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1305004/ofbiz/trunk/framework/base/dtd
+END
+ofbiz-properties.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1305004/ofbiz/trunk/framework/base/dtd/ofbiz-properties.xsd
+END
+base-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/586802/ofbiz/trunk/framework/base/dtd/base-catalog.xml
+END
+component-loader.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/base/dtd/component-loader.xsd
+END
+jndi-config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/base/dtd/jndi-config.xsd
+END
+ofbiz-component.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1097382/ofbiz/trunk/framework/base/dtd/ofbiz-component.xsd
+END
+ofbiz-containers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/base/dtd/ofbiz-containers.xsd
+END

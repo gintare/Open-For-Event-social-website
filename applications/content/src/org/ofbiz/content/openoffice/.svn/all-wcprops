@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1057831/ofbiz/trunk/applications/content/src/org/ofbiz/content/openoffice
+END
+OpenOfficeServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1057831/ofbiz/trunk/applications/content/src/org/ofbiz/content/openoffice/OpenOfficeServices.java
+END
+OpenOfficeWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804895/ofbiz/trunk/applications/content/src/org/ofbiz/content/openoffice/OpenOfficeWorker.java
+END
+OpenOfficeByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/804895/ofbiz/trunk/applications/content/src/org/ofbiz/content/openoffice/OpenOfficeByteArrayInputStream.java
+END
+OpenOfficeByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/804895/ofbiz/trunk/applications/content/src/org/ofbiz/content/openoffice/OpenOfficeByteArrayOutputStream.java
+END

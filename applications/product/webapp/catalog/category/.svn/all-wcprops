@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/applications/product/webapp/catalog/category
+END
+EditCategoryParties.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryParties.ftl
+END
+CategoryTree.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1130442/ofbiz/trunk/applications/product/webapp/catalog/category/CategoryTree.ftl
+END
+EditCategoryContent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/935309/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryContent.ftl
+END
+EditCategoryRollup.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryRollup.ftl
+END
+createProductInCategoryCheckExisting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/967155/ofbiz/trunk/applications/product/webapp/catalog/category/createProductInCategoryCheckExisting.ftl
+END
+EditCategory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategory.ftl
+END
+EditCategoryProdCatalogs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryProdCatalogs.ftl
+END
+EditCategoryProducts.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1296782/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryProducts.ftl
+END
+createProductInCategoryStart.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1044226/ofbiz/trunk/applications/product/webapp/catalog/category/createProductInCategoryStart.ftl
+END
+EditCategoryFeatureCats.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/catalog/category/EditCategoryFeatureCats.ftl
+END

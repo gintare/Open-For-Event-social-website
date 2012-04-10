@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/specialpurpose/hhfacility/webapp/hhfacility/WEB-INF/actions
+END
+Facilities.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/specialpurpose/hhfacility/webapp/hhfacility/WEB-INF/actions/Facilities.groovy
+END
+ProductList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/specialpurpose/hhfacility/webapp/hhfacility/WEB-INF/actions/ProductList.groovy
+END
+ProductStockTake.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/specialpurpose/hhfacility/webapp/hhfacility/WEB-INF/actions/ProductStockTake.groovy
+END

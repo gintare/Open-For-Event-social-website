@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1179517/ofbiz/trunk/applications/product/webapp/facility/shipment
+END
+QuickShipOrder.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/935309/ofbiz/trunk/applications/product/webapp/facility/shipment/QuickShipOrder.ftl
+END
+EditShipmentPackages.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/947485/ofbiz/trunk/applications/product/webapp/facility/shipment/EditShipmentPackages.ftl
+END
+AddItemsFromInventory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/product/webapp/facility/shipment/AddItemsFromInventory.ftl
+END
+ViewShipmentInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/945619/ofbiz/trunk/applications/product/webapp/facility/shipment/ViewShipmentInfo.ftl
+END
+ReceiveInventoryAgainstPurchaseOrder.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1056497/ofbiz/trunk/applications/product/webapp/facility/shipment/ReceiveInventoryAgainstPurchaseOrder.ftl
+END
+PackingSlipShipmentBarCode.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/646857/ofbiz/trunk/applications/product/webapp/facility/shipment/PackingSlipShipmentBarCode.fo.ftl
+END
+EditShipmentItems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/940410/ofbiz/trunk/applications/product/webapp/facility/shipment/EditShipmentItems.ftl
+END
+ShipmentTabBar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/923545/ofbiz/trunk/applications/product/webapp/facility/shipment/ShipmentTabBar.ftl
+END
+WeightPackage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/947483/ofbiz/trunk/applications/product/webapp/facility/shipment/WeightPackage.ftl
+END
+PackingSlip.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/887218/ofbiz/trunk/applications/product/webapp/facility/shipment/PackingSlip.fo.ftl
+END
+ShipmentBarCode.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/645852/ofbiz/trunk/applications/product/webapp/facility/shipment/ShipmentBarCode.fo.ftl
+END
+PackOrder.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/996892/ofbiz/trunk/applications/product/webapp/facility/shipment/PackOrder.ftl
+END
+AddItemsFromOrder.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/931854/ofbiz/trunk/applications/product/webapp/facility/shipment/AddItemsFromOrder.ftl
+END
+ViewShipmentPackageInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/945619/ofbiz/trunk/applications/product/webapp/facility/shipment/ViewShipmentPackageInfo.ftl
+END
+VerifyPick.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1044226/ofbiz/trunk/applications/product/webapp/facility/shipment/VerifyPick.ftl
+END
+ViewShipmentItemInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/931700/ofbiz/trunk/applications/product/webapp/facility/shipment/ViewShipmentItemInfo.ftl
+END
+ViewShipmentRouteInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/923545/ofbiz/trunk/applications/product/webapp/facility/shipment/ViewShipmentRouteInfo.ftl
+END
+ShipmentManifest.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/product/webapp/facility/shipment/ShipmentManifest.fo.ftl
+END
+EditShipmentRouteSegments.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/facility/shipment/EditShipmentRouteSegments.ftl
+END
+FindShipment.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1179517/ofbiz/trunk/applications/product/webapp/facility/shipment/FindShipment.ftl
+END

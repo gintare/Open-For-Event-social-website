@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/826248/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error
+END
+invalidexpirationdate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/637395/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/invalidexpirationdate.xml
+END
+ordernotfound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/ordernotfound.xml
+END
+notyetsupported.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/notyetsupported.xml
+END
+invalidcardnumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/invalidcardnumber.xml
+END
+exceptionLargeSmallFont.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/826248/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/exceptionLargeSmallFont.xml
+END
+printernotready.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/printernotready.xml
+END
+testerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/testerror.xml
+END
+producterror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/producterror.xml
+END
+unknowncardtype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/unknowncardtype.xml
+END
+productnotfound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/productnotfound.xml
+END
+exception.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/825685/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/exception.xml
+END
+drawererror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/drawererror.xml
+END
+itemnotconfigurable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/604993/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/itemnotconfigurable.xml
+END
+nosales.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/634223/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/nosales.xml
+END
+fatalprintererror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/fatalprintererror.xml
+END
+terminalclosed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/terminalclosed.xml
+END
+notenoughfunds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/notenoughfunds.xml
+END
+draweropen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/draweropen.xml
+END
+invalidsecuritycode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/637395/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/invalidsecuritycode.xml
+END
+noitems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/noitems.xml
+END
+mgrnotloggedin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/mgrnotloggedin.xml
+END
+cardreaderror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/cardreaderror.xml
+END
+salevoided.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/499486/ofbiz/trunk/specialpurpose/pos/screens/default/dialog/error/salevoided.xml
+END

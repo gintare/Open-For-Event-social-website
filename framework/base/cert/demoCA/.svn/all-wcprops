@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/base/cert/demoCA
+END
+serial
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/serial
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/cacert.pem
+END
+index.txt.old
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/index.txt.old
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/index.txt
+END
+index.txt.attr.old
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/index.txt.attr.old
+END
+serial.old
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/serial.old
+END
+index.txt.attr
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/554183/ofbiz/trunk/framework/base/cert/demoCA/index.txt.attr
+END

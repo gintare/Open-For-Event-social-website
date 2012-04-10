@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc
+END
+AbstractCursorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/759234/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/AbstractCursorHandler.java
+END
+SQLProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1126715/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/SQLProcessor.java
+END
+SqlJdbcUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1139921/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/SqlJdbcUtil.java
+END
+CursorStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/759234/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/CursorStatement.java
+END
+DatabaseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/DatabaseUtil.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/927271/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/ConnectionFactory.java
+END
+CursorResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/CursorResultSet.java
+END
+ExecQueryCallbackFunctionIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/ExecQueryCallbackFunctionIF.java
+END
+CursorConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/757065/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/CursorConnection.java
+END
+JdbcValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1214124/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/jdbc/JdbcValueHandler.java
+END

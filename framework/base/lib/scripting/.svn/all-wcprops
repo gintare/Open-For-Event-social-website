@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1306769/ofbiz/trunk/framework/base/lib/scripting
+END
+janino-2.5.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/753078/ofbiz/trunk/framework/base/lib/scripting/janino-2.5.15.jar
+END
+jython-nooro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/490457/ofbiz/trunk/framework/base/lib/scripting/jython-nooro.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/657666/ofbiz/trunk/framework/base/lib/scripting/antlr-2.7.6.jar
+END
+bsf-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/708993/ofbiz/trunk/framework/base/lib/scripting/bsf-2.4.0.jar
+END
+asm-util-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/889836/ofbiz/trunk/framework/base/lib/scripting/asm-util-3.2.jar
+END
+asm-tree-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/889836/ofbiz/trunk/framework/base/lib/scripting/asm-tree-3.2.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/533599/ofbiz/trunk/framework/base/lib/scripting/jakarta-oro-2.0.8.jar
+END
+bsh-2.0b4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/533448/ofbiz/trunk/framework/base/lib/scripting/bsh-2.0b4.jar
+END
+asm-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/889836/ofbiz/trunk/framework/base/lib/scripting/asm-3.2.jar
+END
+jline-0.9.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1062476/ofbiz/trunk/framework/base/lib/scripting/jline-0.9.94.jar
+END
+asm-analysis-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/889836/ofbiz/trunk/framework/base/lib/scripting/asm-analysis-3.2.jar
+END
+jansi-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1062476/ofbiz/trunk/framework/base/lib/scripting/jansi-1.2.1.jar
+END
+groovy-all-1.8.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1306769/ofbiz/trunk/framework/base/lib/scripting/groovy-all-1.8.6.jar
+END

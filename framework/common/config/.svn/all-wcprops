@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1307895/ofbiz/trunk/framework/common/config
+END
+fo-styles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/config/fo-styles.properties
+END
+CommonHelpUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1054881/ofbiz/trunk/framework/common/config/CommonHelpUiLabels.xml
+END
+CommonErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1207891/ofbiz/trunk/framework/common/config/CommonErrorUiLabels.xml
+END
+TemporalExpressionUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1245130/ofbiz/trunk/framework/common/config/TemporalExpressionUiLabels.xml
+END
+keywordsearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1199130/ofbiz/trunk/framework/common/config/keywordsearch.properties
+END
+PrefErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1190423/ofbiz/trunk/framework/common/config/PrefErrorUiLabels.xml
+END
+CommonEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1234035/ofbiz/trunk/framework/common/config/CommonEntityLabels.xml
+END
+SecurityUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1190092/ofbiz/trunk/framework/common/config/SecurityUiLabels.xml
+END
+CommonUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1304240/ofbiz/trunk/framework/common/config/CommonUiLabels.xml
+END
+SecurityextUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1307895/ofbiz/trunk/framework/common/config/SecurityextUiLabels.xml
+END
+general.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1307303/ofbiz/trunk/framework/common/config/general.properties
+END
+CommonPortalEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1235513/ofbiz/trunk/framework/common/config/CommonPortalEntityLabels.xml
+END
+cdyne.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/config/cdyne.properties
+END

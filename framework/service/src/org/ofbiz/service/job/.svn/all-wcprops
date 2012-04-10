@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1144625/ofbiz/trunk/framework/service/src/org/ofbiz/service/job
+END
+InvalidJobException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1069098/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/InvalidJobException.java
+END
+JobManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1069098/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/JobManagerException.java
+END
+JobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1066356/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/JobManager.java
+END
+GenericServiceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1069098/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/GenericServiceJob.java
+END
+JobInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/JobInvoker.java
+END
+JobPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/759240/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/JobPoller.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/757069/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/Job.java
+END
+AbstractJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1069098/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/AbstractJob.java
+END
+PersistedServiceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1144625/ofbiz/trunk/framework/service/src/org/ofbiz/service/job/PersistedServiceJob.java
+END

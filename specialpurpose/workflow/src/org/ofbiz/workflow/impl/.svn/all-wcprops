@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1126706/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl
+END
+WfActivitySubFlowImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/932317/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivitySubFlowImplementation.java
+END
+WfProcessMgrImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/932317/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfProcessMgrImpl.java
+END
+WfResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1126706/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfResourceImpl.java
+END
+ServiceCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/ServiceCondition.java
+END
+WfExecutionObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1126706/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfExecutionObjectImpl.java
+END
+WfActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityImpl.java
+END
+WfActivityRouteImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityRouteImplementation.java
+END
+WfActivityAbstractImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/932317/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityAbstractImplementation.java
+END
+WfEventAuditImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/759268/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfEventAuditImpl.java
+END
+WfAssignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfAssignmentImpl.java
+END
+WfActivityLoopImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityLoopImplementation.java
+END
+WfActivityNoImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/791212/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityNoImplementation.java
+END
+WfProcessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfProcessImpl.java
+END
+WfActivityToolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityToolImplementation.java
+END
+WfActivityImplementationFact.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/757110/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfActivityImplementationFact.java
+END
+WfRequesterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/impl/WfRequesterImpl.java
+END

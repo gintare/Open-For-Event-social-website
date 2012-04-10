@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1243671/ofbiz/trunk/framework/documents
+END
+DataFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1230481/ofbiz/trunk/framework/documents/DataFiles.xml
+END
+Framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/924378/ofbiz/trunk/framework/documents/Framework.xml
+END
+SingleSignOn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1069565/ofbiz/trunk/framework/documents/SingleSignOn.xml
+END
+UnitTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1243671/ofbiz/trunk/framework/documents/UnitTest.xml
+END

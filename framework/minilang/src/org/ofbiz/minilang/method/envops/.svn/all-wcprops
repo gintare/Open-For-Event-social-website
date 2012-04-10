@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1296762/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops
+END
+FieldToEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/FieldToEnv.java
+END
+EnvToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/EnvToField.java
+END
+EnvToEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/EnvToEnv.java
+END
+OrderMapList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/OrderMapList.java
+END
+StringToList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/StringToList.java
+END
+FirstFromList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/FirstFromList.java
+END
+Loop.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/899689/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/Loop.java
+END
+ToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/ToString.java
+END
+ListToList.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/ListToList.java
+END
+SetOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1296762/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/SetOperation.java
+END
+StringToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/StringToField.java
+END
+MapToMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/MapToMap.java
+END
+FieldToList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/FieldToList.java
+END
+SetCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/792987/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/SetCalendar.java
+END
+FieldToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/FieldToField.java
+END
+ClearField.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/ClearField.java
+END
+IterateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/833092/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/IterateMap.java
+END
+Iterate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1075525/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/Iterate.java
+END
+StringAppend.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/envops/StringAppend.java
+END

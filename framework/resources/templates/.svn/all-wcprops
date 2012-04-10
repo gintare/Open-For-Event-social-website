@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1294497/ofbiz/trunk/framework/resources/templates
+END
+controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/949142/ofbiz/trunk/framework/resources/templates/controller.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1159080/ofbiz/trunk/framework/resources/templates/services.xml
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/error.jsp
+END
+Forms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/Forms.xml
+END
+Menus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/Menus.xml
+END
+HELP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1051477/ofbiz/trunk/framework/resources/templates/HELP.xml
+END
+entitymodel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/949101/ofbiz/trunk/framework/resources/templates/entitymodel.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1222587/ofbiz/trunk/framework/resources/templates/build.xml
+END
+UiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1052890/ofbiz/trunk/framework/resources/templates/UiLabels.xml
+END
+SecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/SecurityData.xml
+END
+Tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1294497/ofbiz/trunk/framework/resources/templates/Tests.xml
+END
+Screens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/Screens.xml
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/index.jsp
+END
+AdminNewTenantData-PostgreSQL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1065144/ofbiz/trunk/framework/resources/templates/AdminNewTenantData-PostgreSQL.xml
+END
+AdminNewTenantData-Oracle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1065144/ofbiz/trunk/framework/resources/templates/AdminNewTenantData-Oracle.xml
+END
+AdminNewTenantData-MySQL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1065144/ofbiz/trunk/framework/resources/templates/AdminNewTenantData-MySQL.xml
+END
+AdminNewTenantData-Derby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1065144/ofbiz/trunk/framework/resources/templates/AdminNewTenantData-Derby.xml
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/ofbiz-component.xml
+END
+AdminUserLoginData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/AdminUserLoginData.xml
+END
+TypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/TypeData.xml
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1163944/ofbiz/trunk/framework/resources/templates/CommonScreens.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/README.txt
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1243422/ofbiz/trunk/framework/resources/templates/web.xml
+END
+DemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/937961/ofbiz/trunk/framework/resources/templates/DemoData.xml
+END
+document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1073502/ofbiz/trunk/framework/resources/templates/document.xml
+END

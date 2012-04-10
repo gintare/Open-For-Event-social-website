@@ -1,0 +1,20 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 22
+Date Rev Author URL Id
+K 13
+svn:mergeinfo
+V 475
+/ofbiz/branches/addbirt/specialpurpose/ecommerce/script/org/ofbiz/ecommerce/customer/CheckoutMapProcs.xml:831210-885099,885686-886087
+/ofbiz/branches/dojo1.4/applications/order/script/org/ofbiz/order/customer/CheckoutMapProcs.xml:951708-952957
+/ofbiz/branches/jquery/applications/order/script/org/ofbiz/order/customer/CheckoutMapProcs.xml:952958-1044489
+/ofbiz/branches/multitenant20100310/applications/order/script/org/ofbiz/order/customer/CheckoutMapProcs.xml:921280-927264
+K 13
+svn:mime-type
+V 8
+text/xml
+END

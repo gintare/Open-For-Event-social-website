@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1100589/ofbiz/trunk/applications/product/webapp/catalog/price
+END
+setPriceRulesCondEventJs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1100589/ofbiz/trunk/applications/product/webapp/catalog/price/setPriceRulesCondEventJs.ftl
+END
+EditProductPriceRules.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1044503/ofbiz/trunk/applications/product/webapp/catalog/price/EditProductPriceRules.ftl
+END

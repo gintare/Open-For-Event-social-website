@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/tomcat6
+END
+catalina.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/tomcat6/catalina.bat
+END
+catalina.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/tomcat6/catalina.sh
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/tomcat6/server.xml
+END
+catalina.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/tomcat6/catalina.properties
+END

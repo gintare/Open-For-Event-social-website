@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/party/templates/email
+END
+ChangePersonalInfoNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/942386/ofbiz/trunk/applications/party/templates/email/ChangePersonalInfoNotification.ftl
+END
+VerifyEmailAddressNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/935271/ofbiz/trunk/applications/party/templates/email/VerifyEmailAddressNotification.ftl
+END
+CreatePartyNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/787223/ofbiz/trunk/applications/party/templates/email/CreatePartyNotification.ftl
+END

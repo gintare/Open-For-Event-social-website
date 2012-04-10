@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1075322/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops
+END
+IfHasPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/899812/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfHasPermission.java
+END
+IfCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfCompare.java
+END
+CheckPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/CheckPermission.java
+END
+IfInstanceOf.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfInstanceOf.java
+END
+IfCompareField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfCompareField.java
+END
+IfRegexp.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1075322/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfRegexp.java
+END
+IfValidateMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/833092/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfValidateMethod.java
+END
+CheckId.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/883507/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/CheckId.java
+END
+IfEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfEmpty.java
+END
+IfNotEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfNotEmpty.java
+END

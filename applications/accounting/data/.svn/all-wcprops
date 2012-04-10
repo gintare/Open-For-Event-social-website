@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1297416/ofbiz/trunk/applications/accounting/data
+END
+UsTaxAccountGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/499486/ofbiz/trunk/applications/accounting/data/UsTaxAccountGroups.xml
+END
+DemoGlSetupData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1226378/ofbiz/trunk/applications/accounting/data/DemoGlSetupData.xml
+END
+DemoAcctgTransactionData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/982870/ofbiz/trunk/applications/accounting/data/DemoAcctgTransactionData.xml
+END
+AccountingTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1153352/ofbiz/trunk/applications/accounting/data/AccountingTypeData.xml
+END
+AccountingScheduledServiceData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1049650/ofbiz/trunk/applications/accounting/data/AccountingScheduledServiceData.xml
+END
+DemoFinAccountData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/892448/ofbiz/trunk/applications/accounting/data/DemoFinAccountData.xml
+END
+DemoAccountingUserData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1040833/ofbiz/trunk/applications/accounting/data/DemoAccountingUserData.xml
+END
+DemoGeneralChartOfAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1028053/ofbiz/trunk/applications/accounting/data/DemoGeneralChartOfAccounts.xml
+END
+AccountingHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/897392/ofbiz/trunk/applications/accounting/data/AccountingHelpData.xml
+END
+AccountingPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1235513/ofbiz/trunk/applications/accounting/data/AccountingPortletData.xml
+END
+PaymentGatewayConfData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1062608/ofbiz/trunk/applications/accounting/data/PaymentGatewayConfData.xml
+END
+DemoOrganizationData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1185724/ofbiz/trunk/applications/accounting/data/DemoOrganizationData.xml
+END
+DemoPaymentsInvoices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1297416/ofbiz/trunk/applications/accounting/data/DemoPaymentsInvoices.xml
+END
+DemoTaxAuthority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/899912/ofbiz/trunk/applications/accounting/data/DemoTaxAuthority.xml
+END
+AccountingSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/818370/ofbiz/trunk/applications/accounting/data/AccountingSecurityData.xml
+END

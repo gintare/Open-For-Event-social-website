@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1307551/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test
+END
+IndentingWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1044931/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/IndentingWriterTests.java
+END
+AssertTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/935096/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/AssertTests.java
+END
+StringUtilTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1078137/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/StringUtilTests.java
+END
+TimeDurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1044913/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/TimeDurationTests.java
+END
+UtilObjectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1076830/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/UtilObjectTests.java
+END
+UtilIOTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1044913/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/UtilIOTests.java
+END
+ObjectTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1307551/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/ObjectTypeTests.java
+END
+ReferenceCleanerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1078197/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/ReferenceCleanerTests.java
+END
+UtilPropertiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1305004/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/test/UtilPropertiesTests.java
+END

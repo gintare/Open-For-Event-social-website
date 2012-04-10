@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1132726/ofbiz/trunk/applications/product/script/org/ofbiz/product/storage
+END
+FacilityContactMechServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1132726/ofbiz/trunk/applications/product/script/org/ofbiz/product/storage/FacilityContactMechServices.xml
+END
+FacilityContactMechMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1052036/ofbiz/trunk/applications/product/script/org/ofbiz/product/storage/FacilityContactMechMapProcs.xml
+END
+StorageServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/908602/ofbiz/trunk/applications/product/script/org/ofbiz/product/storage/StorageServices.xml
+END
+FacilityEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/925146/ofbiz/trunk/applications/product/script/org/ofbiz/product/storage/FacilityEvents.xml
+END

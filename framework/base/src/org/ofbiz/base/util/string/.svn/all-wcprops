@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1299040/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string
+END
+UelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1076392/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string/UelUtil.java
+END
+FlexibleStringExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1299040/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string/FlexibleStringExpander.java
+END
+NodeELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/883217/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string/NodeELResolver.java
+END
+JuelConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/894106/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string/JuelConnector.java
+END
+UelFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1054211/ofbiz/trunk/framework/base/src/org/ofbiz/base/util/string/UelFunctions.java
+END

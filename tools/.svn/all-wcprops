@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/asf/!svn/ver/1308650/ofbiz/trunk/tools
+END
+startofbiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1304965/ofbiz/trunk/tools/startofbiz.sh
+END
+rc.ofbiz.for.debian
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/rc.ofbiz.for.debian
+END
+rc.ofbiz.for.ubuntu
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1308650/ofbiz/trunk/tools/rc.ofbiz.for.ubuntu
+END
+stopofbiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1304965/ofbiz/trunk/tools/stopofbiz.sh
+END
+svnUpHotdeploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/svnUpHotdeploy.bat
+END
+startofbizBoth.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/startofbizBoth.bat
+END
+ij.ofbiz
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/ij.ofbiz
+END
+applyOfbizPatchesAndHotDeploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/applyOfbizPatchesAndHotDeploy.sh
+END
+rc.ofbiz
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/rc.ofbiz
+END
+revert.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/revert.bat
+END
+startofbiz.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/startofbiz.bat
+END
+svnUpHotdeploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/svnUpHotdeploy.sh
+END
+ofbiz.aptana.js.format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1305000/ofbiz/trunk/tools/ofbiz.aptana.js.format.xml
+END
+startofbizPos.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1304369/ofbiz/trunk/tools/startofbizPos.bat
+END

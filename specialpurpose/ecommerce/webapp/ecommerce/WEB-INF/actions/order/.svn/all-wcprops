@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1091694/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order
+END
+ShipmentStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/821643/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/ShipmentStatus.groovy
+END
+QuickAnonPaymentInformation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/QuickAnonPaymentInformation.groovy
+END
+OrderHistory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/OrderHistory.groovy
+END
+CustSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/CustSettings.groovy
+END
+QuickAnonOptionSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/QuickAnonOptionSettings.groovy
+END
+BillSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/BillSettings.groovy
+END
+QuickAnonCustSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/QuickAnonCustSettings.groovy
+END
+QuickAnonCheckoutLinks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/QuickAnonCheckoutLinks.groovy
+END
+OrderStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1091694/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/OrderStatus.groovy
+END
+AnonymousCheckoutLinks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/AnonymousCheckoutLinks.groovy
+END
+SplitShip.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/SplitShip.groovy
+END
+PaymentInformation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/PaymentInformation.groovy
+END
+CheckoutShippingOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/CheckoutShippingOptions.groovy
+END
+AnonymousTrail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/AnonymousTrail.groovy
+END
+ShipSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/ShipSettings.groovy
+END
+CheckoutReview.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/CheckoutReview.groovy
+END
+RequestReturn.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/924575/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/RequestReturn.groovy
+END
+PaymentOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/PaymentOptions.groovy
+END
+OptionSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/order/OptionSettings.groovy
+END

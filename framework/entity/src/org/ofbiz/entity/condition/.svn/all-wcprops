@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1139879/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition
+END
+OrderByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1136833/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/OrderByList.java
+END
+EntityConditionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/881669/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionVisitor.java
+END
+EntityConditionParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionParam.java
+END
+EntityJoinOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityJoinOperator.java
+END
+EntityClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/949611/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityClause.java
+END
+EntityConditionListBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionListBase.java
+END
+EntityExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1139870/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityExpr.java
+END
+EntityFieldValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1139869/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityFieldValue.java
+END
+EntityFieldMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityFieldMap.java
+END
+EntityConditionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/951553/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionBase.java
+END
+EntityConditionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionList.java
+END
+EntityConditionValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionValue.java
+END
+EntityFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityFunction.java
+END
+EntityCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityCondition.java
+END
+EntityComparisonOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1075506/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityComparisonOperator.java
+END
+OrderByItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/950901/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/OrderByItem.java
+END
+EntityDateFilterCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/981009/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityDateFilterCondition.java
+END
+EntityOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityOperator.java
+END
+EntityConditionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1044917/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionFunction.java
+END
+EntityConditionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionBuilder.java
+END
+EntityConditionSubSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1139879/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityConditionSubSelect.java
+END
+EntityWhereString.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/condition/EntityWhereString.java
+END

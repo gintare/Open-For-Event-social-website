@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1308379/ofbiz/trunk/applications
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/build.xml
+END
+component-load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/811787/ofbiz/trunk/applications/component-load.xml
+END

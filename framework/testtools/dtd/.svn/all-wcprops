@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/924378/ofbiz/trunk/framework/testtools/dtd
+END
+SeleniumXml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/924378/ofbiz/trunk/framework/testtools/dtd/SeleniumXml.xsd
+END
+test-suite.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/924378/ofbiz/trunk/framework/testtools/dtd/test-suite.xsd
+END
+testtools-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/586802/ofbiz/trunk/framework/testtools/dtd/testtools-catalog.xml
+END

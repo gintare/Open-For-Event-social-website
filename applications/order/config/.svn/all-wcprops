@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1306751/ofbiz/trunk/applications/order/config
+END
+OrderErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1306751/ofbiz/trunk/applications/order/config/OrderErrorUiLabels.xml
+END
+zipsales.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/config/zipsales.properties
+END
+order.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1212266/ofbiz/trunk/applications/order/config/order.properties
+END
+taxware.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/order/config/taxware.properties
+END
+OrderEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1304237/ofbiz/trunk/applications/order/config/OrderEntityLabels.xml
+END
+OrderUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1304237/ofbiz/trunk/applications/order/config/OrderUiLabels.xml
+END

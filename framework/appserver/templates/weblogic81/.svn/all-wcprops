@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/weblogic81
+END
+startOFBizServer.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/weblogic81/startOFBizServer.cmd
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/737003/ofbiz/trunk/framework/appserver/templates/weblogic81/config.xml
+END
+startOFBizServer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/appserver/templates/weblogic81/startOFBizServer.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/490457/ofbiz/trunk/framework/appserver/templates/weblogic81/README
+END

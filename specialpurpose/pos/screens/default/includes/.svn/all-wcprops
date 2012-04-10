@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/default/includes
+END
+posinput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/593671/ofbiz/trunk/specialpurpose/pos/screens/default/includes/posinput.xml
+END
+numeric.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/pos/screens/default/includes/numeric.xml
+END
+promostatusbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/832358/ofbiz/trunk/specialpurpose/pos/screens/default/includes/promostatusbar.xml
+END
+payinput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/pos/screens/default/includes/payinput.xml
+END
+journal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/pos/screens/default/includes/journal.xml
+END

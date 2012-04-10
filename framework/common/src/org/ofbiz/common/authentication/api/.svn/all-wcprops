@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/common/src/org/ofbiz/common/authentication/api
+END
+AuthenticatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/common/src/org/ofbiz/common/authentication/api/AuthenticatorException.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/common/src/org/ofbiz/common/authentication/api/Authenticator.java
+END

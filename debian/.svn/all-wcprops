@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/debian
+END
+ofbiz-applications.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/790032/ofbiz/trunk/debian/ofbiz-applications.postinst
+END
+override-data.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/debian/override-data.xslt
+END
+move-files.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1006052/ofbiz/trunk/debian/move-files.pl
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/1006053/ofbiz/trunk/debian/control
+END
+ofbiz-applications.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/790032/ofbiz/trunk/debian/ofbiz-applications.prerm
+END
+ofbiz-framework.links
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/907566/ofbiz/trunk/debian/ofbiz-framework.links
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/684387/ofbiz/trunk/debian/compat
+END
+ofbiz-framework.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/948563/ofbiz/trunk/debian/ofbiz-framework.postinst
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1006053/ofbiz/trunk/debian/changelog
+END
+EncryptPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/debian/EncryptPassword.java
+END
+ofbiz-framework.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/901954/ofbiz/trunk/debian/ofbiz-framework.postrm
+END
+ofbiz-specialpurpose.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/790032/ofbiz/trunk/debian/ofbiz-specialpurpose.postinst
+END
+ofbiz-framework.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/763175/ofbiz/trunk/debian/ofbiz-framework.prerm
+END
+ofbiz-framework.triggers
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/790032/ofbiz/trunk/debian/ofbiz-framework.triggers
+END
+ofbiz-specialpurpose.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/790032/ofbiz/trunk/debian/ofbiz-specialpurpose.prerm
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1006048/ofbiz/trunk/debian/rules
+END
+entityengine.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/820807/ofbiz/trunk/debian/entityengine.xslt
+END
+ofbiz-framework.ofbiz.default
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/718511/ofbiz/trunk/debian/ofbiz-framework.ofbiz.default
+END
+ofbiz-framework.templates
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/907566/ofbiz/trunk/debian/ofbiz-framework.templates
+END
+ofbiz-framework.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/907566/ofbiz/trunk/debian/ofbiz-framework.logrotate
+END
+extract-entityengine.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/689908/ofbiz/trunk/debian/extract-entityengine.xslt
+END
+strip-common-licenses.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1006048/ofbiz/trunk/debian/strip-common-licenses.sh
+END
+ofbiz-framework.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/907566/ofbiz/trunk/debian/ofbiz-framework.dirs
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/debian/TODO
+END
+ofbiz-framework.config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/790024/ofbiz/trunk/debian/ofbiz-framework.config
+END
+copyright.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/749190/ofbiz/trunk/debian/copyright.in
+END
+ofbiz-framework.ofbiz.init
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1040795/ofbiz/trunk/debian/ofbiz-framework.ofbiz.init
+END

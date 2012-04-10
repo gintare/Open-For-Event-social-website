@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1302324/ofbiz/trunk/framework/entity/src/org/ofbiz/entity
+END
+GenericValueHtmlWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericValueHtmlWrapper.java
+END
+GenericDuplicateKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericDuplicateKeyException.java
+END
+GenericResultSetClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericResultSetClosedException.java
+END
+GenericNotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericNotImplementedException.java
+END
+GenericDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1174964/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericDelegator.java
+END
+GenericEntityNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericEntityNotFoundException.java
+END
+GenericDataSourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericDataSourceException.java
+END
+Delegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1174964/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/Delegator.java
+END
+GenericPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericPK.java
+END
+GenericNoSuchEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericNoSuchEntityException.java
+END
+GenericStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericStoreException.java
+END
+GenericEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1231584/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericEntity.java
+END
+GenericRemoveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericRemoveException.java
+END
+GenericValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1044917/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericValue.java
+END
+GenericModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericModelException.java
+END
+EntityLockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/EntityLockedException.java
+END
+GenericCreateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericCreateException.java
+END
+DelegatorFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/921990/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/DelegatorFactoryImpl.java
+END
+GenericEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericEntityException.java
+END
+EntityCryptoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/960154/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/EntityCryptoException.java
+END
+GenericFindException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericFindException.java
+END
+DelegatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/DelegatorFactory.java
+END
+GenericEntityConfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1068625/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/GenericEntityConfException.java
+END

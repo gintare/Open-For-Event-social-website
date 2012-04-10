@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1228649/ofbiz/trunk/applications/workeffort/config
+END
+EventReminders.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1040914/ofbiz/trunk/applications/workeffort/config/EventReminders.properties
+END
+WorkEffortEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1160408/ofbiz/trunk/applications/workeffort/config/WorkEffortEntityLabels.xml
+END
+WorkEffortUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1228649/ofbiz/trunk/applications/workeffort/config/WorkEffortUiLabels.xml
+END
+workeffortsearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/workeffort/config/workeffortsearch.properties
+END

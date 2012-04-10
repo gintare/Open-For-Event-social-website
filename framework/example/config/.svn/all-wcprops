@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/example/config
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/example/config/config.txt
+END
+ExampleHelpUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/798559/ofbiz/trunk/framework/example/config/ExampleHelpUiLabels.xml
+END
+ExampleEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1095037/ofbiz/trunk/framework/example/config/ExampleEntityLabels.xml
+END
+ExampleUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/example/config/ExampleUiLabels.xml
+END

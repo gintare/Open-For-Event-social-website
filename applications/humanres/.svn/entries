@@ -1,0 +1,123 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/humanres
+http://svn.apache.org/repos/asf
+
+
+
+2012-01-25T21:05:22.771647Z
+1235947
+erwan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:25:49.932469Z
+ace7934b6e433bc4e6e435788b0f151f
+2012-01-16T14:18:21.471173Z
+1232003
+erwan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2260
+
+data
+dir
+
+entitydef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:25:49.932469Z
+bac13ce7096cf6559bfc213c3387489b
+2011-08-24T03:25:12.393715Z
+1160969
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3478
+

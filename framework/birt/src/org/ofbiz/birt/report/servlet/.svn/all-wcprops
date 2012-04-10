@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/src/org/ofbiz/birt/report/servlet
+END
+BirtViewerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/src/org/ofbiz/birt/report/servlet/BirtViewerServlet.java
+END
+BirtEngineServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1293999/ofbiz/trunk/framework/birt/src/org/ofbiz/birt/report/servlet/BirtEngineServlet.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1227339/ofbiz/trunk/applications/content/src/org/ofbiz/content/search
+END
+SearchWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1227339/ofbiz/trunk/applications/content/src/org/ofbiz/content/search/SearchWorker.java
+END
+DataResourceDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1059538/ofbiz/trunk/applications/content/src/org/ofbiz/content/search/DataResourceDocument.java
+END
+ContentDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1202445/ofbiz/trunk/applications/content/src/org/ofbiz/content/search/ContentDocument.java
+END
+SearchServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1057831/ofbiz/trunk/applications/content/src/org/ofbiz/content/search/SearchServices.java
+END
+SearchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/995704/ofbiz/trunk/applications/content/src/org/ofbiz/content/search/SearchEvents.java
+END

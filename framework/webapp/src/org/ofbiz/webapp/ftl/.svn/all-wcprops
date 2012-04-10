@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1307303/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl
+END
+OfbizContentTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1304200/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/OfbizContentTransform.java
+END
+OfbizCurrencyTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1307303/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/OfbizCurrencyTransform.java
+END
+SetContextFieldTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1307288/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/SetContextFieldTransform.java
+END
+OfbizCacheStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/883217/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/OfbizCacheStorage.java
+END
+RenderWrappedTextTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/836141/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/RenderWrappedTextTransform.java
+END
+FreeMarkerViewRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/757075/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/FreeMarkerViewRenderer.java
+END
+LoopWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/LoopWriter.java
+END
+OfbizUrlTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1211258/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/OfbizUrlTransform.java
+END
+OfbizAmountTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/836141/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/OfbizAmountTransform.java
+END
+SetRequestAttributeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/836141/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/SetRequestAttributeMethod.java
+END
+FreeMarkerViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1068567/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/FreeMarkerViewHandler.java
+END
+JpCacheIncludeTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/883217/ofbiz/trunk/framework/webapp/src/org/ofbiz/webapp/ftl/JpCacheIncludeTransform.java
+END

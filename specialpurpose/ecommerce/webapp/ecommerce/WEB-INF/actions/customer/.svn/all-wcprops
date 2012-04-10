@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1305038/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer
+END
+ViewProfile.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/781649/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/ViewProfile.groovy
+END
+EditBillingAddress.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1232539/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditBillingAddress.groovy
+END
+EditShippingAddress.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1175143/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditShippingAddress.groovy
+END
+EditContactMech.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditContactMech.groovy
+END
+GiftCardLink.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/GiftCardLink.groovy
+END
+EditEmailAndTelecomNumber.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/982870/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditEmailAndTelecomNumber.groovy
+END
+CustomerReviews.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1305038/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/CustomerReviews.groovy
+END
+ChangePassword.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/ChangePassword.groovy
+END
+NewCustomer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1224876/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/NewCustomer.groovy
+END
+EditPerson.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditPerson.groovy
+END
+CustomerSurvey.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/821643/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/CustomerSurvey.groovy
+END
+OnePageCheckoutOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1304567/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/OnePageCheckoutOptions.groovy
+END
+EditPaymentMethod.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/EditPaymentMethod.groovy
+END
+ContactList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1159524/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/ContactList.groovy
+END
+GiftCardBalance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/763175/ofbiz/trunk/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/customer/GiftCardBalance.groovy
+END

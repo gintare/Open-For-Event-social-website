@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1126729/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar
+END
+TemporalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/900662/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/TemporalExpression.java
+END
+TemporalExpressionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/940559/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionVisitor.java
+END
+RecurrenceRuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1069091/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/RecurrenceRuleException.java
+END
+RecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1081517/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/RecurrenceRule.java
+END
+TemporalExpressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1126729/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/TemporalExpressions.java
+END
+TemporalExpressionPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/940559/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionPrinter.java
+END
+RecurrenceInfoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1069091/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/RecurrenceInfoException.java
+END
+RecurrenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/900662/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/RecurrenceInfo.java
+END
+RecurrenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/833725/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/RecurrenceUtil.java
+END
+ExpressionUiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1126729/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/ExpressionUiHelper.java
+END
+TemporalExpressionWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/940559/ofbiz/trunk/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionWorker.java
+END

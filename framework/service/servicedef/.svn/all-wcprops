@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1103667/ofbiz/trunk/framework/service/servicedef
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1103667/ofbiz/trunk/framework/service/servicedef/services.xml
+END
+secas_test_se.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/835548/ofbiz/trunk/framework/service/servicedef/secas_test_se.xml
+END
+services_test_se.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/959261/ofbiz/trunk/framework/service/servicedef/services_test_se.xml
+END

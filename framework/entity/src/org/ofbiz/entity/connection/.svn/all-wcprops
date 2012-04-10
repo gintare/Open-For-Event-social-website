@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection
+END
+DBCPConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1238991/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/DBCPConnectionFactory.java
+END
+TyrexConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/TyrexConnectionFactory.java
+END
+ConnectionFactoryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/927271/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/ConnectionFactoryInterface.java
+END
+MinervaConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1076114/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/MinervaConnectionFactory.java
+END
+XaPoolConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/XaPoolConnectionFactory.java
+END
+DebugManagedDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/818106/ofbiz/trunk/framework/entity/src/org/ofbiz/entity/connection/DebugManagedDataSource.java
+END

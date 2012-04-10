@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1240016/ofbiz/trunk/framework/common/data
+END
+DimensionTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/677587/ofbiz/trunk/framework/common/data/DimensionTypeData.xml
+END
+GeoData_CHE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1169819/ofbiz/trunk/framework/common/data/GeoData_CHE.xml
+END
+GeoData_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1094505/ofbiz/trunk/framework/common/data/GeoData_CN.xml
+END
+CurrencyData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/889666/ofbiz/trunk/framework/common/data/CurrencyData.xml
+END
+CommonTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1222544/ofbiz/trunk/framework/common/data/CommonTypeData.xml
+END
+GeoData_CO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/data/GeoData_CO.xml
+END
+GeoData_BR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/data/GeoData_BR.xml
+END
+CountryCodeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/common/data/CountryCodeData.xml
+END
+GeoData_AU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/common/data/GeoData_AU.xml
+END
+GeoData_IN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/data/GeoData_IN.xml
+END
+GeoData_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/data/GeoData_ES.xml
+END
+GeoData_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1070911/ofbiz/trunk/framework/common/data/GeoData_FR.xml
+END
+CommonSystemPropertyData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1240016/ofbiz/trunk/framework/common/data/CommonSystemPropertyData.xml
+END
+CommonPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/936818/ofbiz/trunk/framework/common/data/CommonPortletData.xml
+END
+GeoData_NL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/common/data/GeoData_NL.xml
+END
+GeoData_PL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1092320/ofbiz/trunk/framework/common/data/GeoData_PL.xml
+END
+GeoData_IT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/891928/ofbiz/trunk/framework/common/data/GeoData_IT.xml
+END
+GeoData_UK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/737003/ofbiz/trunk/framework/common/data/GeoData_UK.xml
+END
+GeoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1189961/ofbiz/trunk/framework/common/data/GeoData.xml
+END
+GeoData_CA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1170061/ofbiz/trunk/framework/common/data/GeoData_CA.xml
+END
+GeoData_MX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1163475/ofbiz/trunk/framework/common/data/GeoData_MX.xml
+END
+UnitData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1040908/ofbiz/trunk/framework/common/data/UnitData.xml
+END
+CommonSecurityData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1023202/ofbiz/trunk/framework/common/data/CommonSecurityData.xml
+END
+GeoData_IRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/737003/ofbiz/trunk/framework/common/data/GeoData_IRL.xml
+END
+GeoData_US.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1170061/ofbiz/trunk/framework/common/data/GeoData_US.xml
+END
+GeoData_DE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/951062/ofbiz/trunk/framework/common/data/GeoData_DE.xml
+END
+GeoData_BG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/627900/ofbiz/trunk/framework/common/data/GeoData_BG.xml
+END
+PeriodData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/common/data/PeriodData.xml
+END
+LanguageData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/499486/ofbiz/trunk/framework/common/data/LanguageData.xml
+END

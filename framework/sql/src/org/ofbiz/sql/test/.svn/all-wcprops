@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1076860/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test
+END
+SQLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1076857/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/SQLTest.java
+END
+SelectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1076437/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/SelectTest.java
+END
+ValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1076860/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/ValuesTest.java
+END
+Recorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1044202/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/Recorder.java
+END
+ConditionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1076855/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/ConditionsTest.java
+END
+GoodParseAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/981640/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/GoodParseAll.sql
+END
+TestSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/924378/ofbiz/trunk/framework/sql/src/org/ofbiz/sql/test/TestSelect.sql
+END

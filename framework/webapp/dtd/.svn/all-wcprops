@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/993489/ofbiz/trunk/framework/webapp/dtd
+END
+regions.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/webapp/dtd/regions.xsd
+END
+site-conf.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/993489/ofbiz/trunk/framework/webapp/dtd/site-conf.xsd
+END
+webapp-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/webapp/dtd/webapp-catalog.xml
+END

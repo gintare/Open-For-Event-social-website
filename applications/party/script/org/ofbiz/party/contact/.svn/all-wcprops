@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1231077/ofbiz/trunk/applications/party/script/org/ofbiz/party/contact
+END
+ContactMechServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1025838/ofbiz/trunk/applications/party/script/org/ofbiz/party/contact/ContactMechServices.xml
+END
+PartyContactMechServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1231077/ofbiz/trunk/applications/party/script/org/ofbiz/party/contact/PartyContactMechServices.xml
+END
+ContactMechMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/party/script/org/ofbiz/party/contact/ContactMechMapProcs.xml
+END
+PartyContactMechMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/812985/ofbiz/trunk/applications/party/script/org/ofbiz/party/contact/PartyContactMechMapProcs.xml
+END

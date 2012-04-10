@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/945340/ofbiz/trunk/framework/common/webcommon/includes/fo
+END
+pm-letter.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/webcommon/includes/fo/pm-letter.fo.ftl
+END
+pm-11x17.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/webcommon/includes/fo/pm-11x17.fo.ftl
+END
+basic-footer.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/773211/ofbiz/trunk/framework/common/webcommon/includes/fo/basic-footer.fo.ftl
+END
+pm-iso216.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/945340/ofbiz/trunk/framework/common/webcommon/includes/fo/pm-iso216.fo.ftl
+END
+start.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/945340/ofbiz/trunk/framework/common/webcommon/includes/fo/start.fo.ftl
+END
+pm-legal.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/webcommon/includes/fo/pm-legal.fo.ftl
+END
+end.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/webcommon/includes/fo/end.fo.ftl
+END
+basic-header.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/634598/ofbiz/trunk/framework/common/webcommon/includes/fo/basic-header.fo.ftl
+END

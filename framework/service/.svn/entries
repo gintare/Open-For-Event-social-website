@@ -1,0 +1,123 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/framework/service
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-17T05:35:45.078118Z
+1301866
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+servicedef
+dir
+
+documents
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2012-04-03T16:27:44.524484Z
+635fb4e8905d52ed33450f3287644c6d
+2011-12-28T20:51:26.036705Z
+1225330
+adrianc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2392
+
+data
+dir
+
+dtd
+dir
+
+entitydef
+dir
+
+testdef
+dir
+
+build.xml
+file
+
+
+
+
+2012-04-03T16:27:44.524484Z
+41e86edd01296bd3bf02e5af50d3c9f9
+2010-04-18T18:03:47.665987Z
+935381
+doogie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2975
+

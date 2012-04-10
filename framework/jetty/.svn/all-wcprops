@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1305884/ofbiz/trunk/framework/jetty
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/763175/ofbiz/trunk/framework/jetty/ofbiz-component.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/894031/ofbiz/trunk/framework/jetty/build.xml
+END

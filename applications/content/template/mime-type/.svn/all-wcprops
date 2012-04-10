@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1203473/ofbiz/trunk/applications/content/template/mime-type
+END
+quicktime.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1140954/ofbiz/trunk/applications/content/template/mime-type/quicktime.ftl
+END
+flash-flv.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1140954/ofbiz/trunk/applications/content/template/mime-type/flash-flv.ftl
+END
+image.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1203473/ofbiz/trunk/applications/content/template/mime-type/image.ftl
+END
+flash-swf.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/804935/ofbiz/trunk/applications/content/template/mime-type/flash-swf.ftl
+END

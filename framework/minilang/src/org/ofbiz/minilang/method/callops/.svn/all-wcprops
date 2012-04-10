@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1300847/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops
+END
+FlexibleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1069085/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/FlexibleMessage.java
+END
+Return.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/883507/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/Return.java
+END
+CallScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1296762/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallScript.java
+END
+AddError.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/883507/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/AddError.java
+END
+CallClassMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallClassMethod.java
+END
+CallServiceAsynch.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/791212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallServiceAsynch.java
+END
+CallObjectMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/833092/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallObjectMethod.java
+END
+CallSimpleMapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/939966/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallSimpleMapProcessor.java
+END
+SetServiceFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1300847/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/SetServiceFields.java
+END
+CallSimpleMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/883549/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallSimpleMethod.java
+END
+CallBsh.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1171393/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallBsh.java
+END
+CheckErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/883507/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CheckErrors.java
+END
+CreateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/833092/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CreateObject.java
+END
+CallService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1214212/ofbiz/trunk/framework/minilang/src/org/ofbiz/minilang/method/callops/CallService.java
+END

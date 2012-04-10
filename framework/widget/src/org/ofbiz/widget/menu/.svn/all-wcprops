@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1302320/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu
+END
+MenuStringRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/757077/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/MenuStringRenderer.java
+END
+ModelMenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1302320/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/ModelMenuAction.java
+END
+ModelMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1169478/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/ModelMenuItem.java
+END
+ModelMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1230478/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/ModelMenu.java
+END
+MenuWrapTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1044232/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/MenuWrapTransform.java
+END
+MenuFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/995203/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/MenuFactory.java
+END
+ModelMenuCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1075322/ofbiz/trunk/framework/widget/src/org/ofbiz/widget/menu/ModelMenuCondition.java
+END

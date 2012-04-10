@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 82
+ofbiz.jar
+bin
+*.patch
+*.iml
+*.ipr
+*.iws
+*.time
+.settings
+.project
+changelog
+.idea
+
+K 13
+svn:mergeinfo
+V 227
+/ofbiz/branches/addbirt:831210-885099,885686-886087
+/ofbiz/branches/dojo1.4:951708-952957
+/ofbiz/branches/jackrabbit20100709:962442-1231517
+/ofbiz/branches/jquery:952958-1044489
+/ofbiz/branches/multitenant20100310:921280-927264
+END

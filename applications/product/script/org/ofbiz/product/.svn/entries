@@ -1,0 +1,116 @@
+10
+
+dir
+1309017
+http://svn.apache.org/repos/asf/ofbiz/trunk/applications/product/script/org/ofbiz/product
+http://svn.apache.org/repos/asf
+
+
+
+2012-03-22T06:12:49.195809Z
+1303662
+hansbak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+imagemanagement
+dir
+
+test
+dir
+
+product
+dir
+
+subscription
+dir
+
+rental
+dir
+
+UpgradeServices.xml
+file
+
+
+
+
+2012-04-03T16:25:46.296482Z
+1b0a2f81c6c337dfe6e29c296282fab9
+2011-12-23T03:49:11.323017Z
+1222544
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4453
+
+olap
+dir
+
+feature
+dir
+
+store
+dir
+
+promo
+dir
+
+inventory
+dir
+
+price
+dir
+
+supplier
+dir
+
+storage
+dir
+
+config
+dir
+
+communication
+dir
+
+cost
+dir
+
+catalog
+dir
+
+category
+dir
+

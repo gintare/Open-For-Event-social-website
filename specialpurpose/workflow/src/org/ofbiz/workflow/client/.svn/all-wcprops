@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1126706/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/client
+END
+StartActivityJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/932317/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/client/StartActivityJob.java
+END
+WorkflowClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1126706/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/client/WorkflowClient.java
+END
+WorkflowServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/932317/ofbiz/trunk/specialpurpose/workflow/src/org/ofbiz/workflow/client/WorkflowServices.java
+END

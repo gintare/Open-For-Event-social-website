@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/marketing/webapp/marketing/error
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/763175/ofbiz/trunk/applications/marketing/webapp/marketing/error/error.jsp
+END
+error403.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/499486/ofbiz/trunk/applications/marketing/webapp/marketing/error/error403.jsp
+END
+error404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/499486/ofbiz/trunk/applications/marketing/webapp/marketing/error/error404.jsp
+END
