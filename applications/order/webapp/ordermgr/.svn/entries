@@ -1,98 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/order/webapp/ordermgr
-http://svn.apache.org/repos/asf
-
-
-
-2012-03-30T07:28:39.680553Z
-1307288
-jacopoc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-return
-dir
-
-setup
-dir
-
-entry
-dir
-
-task
-dir
-
-index.jsp
-file
-
-
-
-
-2012-04-03T16:26:46.416970Z
-dd5f1ce44fa2d9d045ae76e6de1bd39d
-2007-01-24T17:15:54.112056Z
-499486
-jleroux
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-807
-
-images
-dir
-
-includes
-dir
-
-WEB-INF
-dir
-
-request
-dir
-
-error
-dir
-
-order
-dir
-
-quote
-dir
-
-reports
-dir
-

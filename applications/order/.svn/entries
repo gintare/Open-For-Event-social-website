@@ -1,129 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/order
-http://svn.apache.org/repos/asf
-
-
-
-2012-03-31T15:45:12.656514Z
-1307836
-erwan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-servicedef
-dir
-
-documents
-dir
-
-widget
-dir
-
-script
-dir
-
-config
-dir
-
-email
-dir
-
-src
-dir
-
-ofbiz-component.xml
-file
-
-
-
-
-2012-04-03T16:26:46.420970Z
-fad6c668b6848e2fc7af169978b503b5
-2012-01-03T21:28:24.031302Z
-1226954
-erwan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4189
-
-data
-dir
-
-entitydef
-dir
-
-testdef
-dir
-
-webapp
-dir
-
-build.xml
-file
-
-
-
-
-2012-04-03T16:26:46.420970Z
-5ac7164979615221fc3d7f1ccf8e35da
-2010-04-18T18:03:47.665987Z
-935381
-doogie
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3360
-

@@ -1,40 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/product/webapp/facility/WEB-INF/actions
-http://svn.apache.org/repos/asf
-
-
-
-2012-01-14T07:31:15.127943Z
-1231444
-jleroux
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-returns
-dir
-
-facility
-dir
-
-shipment
-dir
-
-inventory
-dir
-

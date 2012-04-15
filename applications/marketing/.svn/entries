@@ -1,129 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/marketing
-http://svn.apache.org/repos/asf
-
-
-
-2012-03-23T08:56:48.265115Z
-1304237
-jleroux
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-servicedef
-dir
-
-documents
-dir
-
-widget
-dir
-
-script
-dir
-
-config
-dir
-
-lib
-dir
-
-src
-dir
-
-ofbiz-component.xml
-file
-
-
-
-
-2012-04-03T16:25:49.644479Z
-91350bce934379fa05ba0a24da39052a
-2011-03-23T10:40:01.086277Z
-1084529
-erwan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2693
-
-data
-dir
-
-entitydef
-dir
-
-testdef
-dir
-
-webapp
-dir
-
-build.xml
-file
-
-
-
-
-2012-04-03T16:25:49.644479Z
-86c008121895a28321f9a44c153311ca
-2009-12-26T22:28:48.116557Z
-894031
-doogie
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2420
-

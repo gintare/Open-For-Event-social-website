@@ -1,43 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/manufacturing/webapp/manufacturing/WEB-INF/actions
-http://svn.apache.org/repos/asf
-
-
-
-2011-11-06T20:13:06.897386Z
-1198545
-erwan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-routing
-dir
-
-jobshopmgt
-dir
-
-bom
-dir
-
-mrp
-dir
-
-reports
-dir
-

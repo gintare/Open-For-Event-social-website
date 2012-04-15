@@ -1,138 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications/content
-http://svn.apache.org/repos/asf
-
-
-
-2012-03-28T20:26:58.936744Z
-1306575
-erwan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-servicedef
-dir
-
-widget
-dir
-
-src
-dir
-
-entitydef
-dir
-
-build.xml
-file
-
-
-
-
-2012-04-03T16:26:43.504469Z
-1f60735ccd19b4110f9555d56c68b331
-2012-01-15T10:41:50.373631Z
-1231647
-sascharodekamp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3258
-
-testdef
-dir
-
-documents
-dir
-
-script
-dir
-
-config
-dir
-
-lib
-dir
-
-index
-dir
-
-ofbiz-component.xml
-file
-
-
-
-
-2012-04-03T16:26:43.504469Z
-966afa18d3f0bec288a986a12b3a4a5e
-2011-07-05T10:31:08.164544Z
-1142970
-hansbak
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5177
-
-data
-dir
-
-template
-dir
-
-dtd
-dir
-
-webapp
-dir
-

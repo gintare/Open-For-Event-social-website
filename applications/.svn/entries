@@ -1,129 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/applications
-http://svn.apache.org/repos/asf
-
-
-
-2012-04-02T15:10:45.175261Z
-1308379
-jacopoc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-party
-dir
-
-product
-dir
-
-marketing
-dir
-
-humanres
-dir
-
-manufacturing
-dir
-
-securityext
-dir
-
-workeffort
-dir
-
-commonext
-dir
-
-accounting
-dir
-
-content
-dir
-
-order
-dir
-
-build.xml
-file
-
-
-
-
-2012-04-03T16:26:46.424970Z
-1aa8ba9dbd6f02c5f04cc48826d93a98
-2009-04-08T10:54:51.925618Z
-763175
-jleroux
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3278
-
-component-load.xml
-file
-
-
-
-
-2012-04-03T16:26:46.424970Z
-62c9cde4ce90e9d2c3e12702728c0765
-2009-09-06T09:39:20.232442Z
-811787
-hansbak
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1665
-
