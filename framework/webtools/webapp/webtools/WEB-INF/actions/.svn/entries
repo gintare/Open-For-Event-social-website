@@ -1,55 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/framework/webtools/webapp/webtools/WEB-INF/actions
-http://svn.apache.org/repos/asf
-
-
-
-2012-02-19T14:39:10.763268Z
-1291007
-adrianc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-service
-dir
-
-log
-dir
-
-cache
-dir
-
-artifactinfo
-dir
-
-datafile
-dir
-
-labelmanager
-dir
-
-workflow
-dir
-
-entity
-dir
-
-stats
-dir
-

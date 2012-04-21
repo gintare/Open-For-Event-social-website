@@ -1,80 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/specialpurpose/webpos/webapp/webpos/WEB-INF/actions
-http://svn.apache.org/repos/asf
-
-
-
-2012-01-07T20:25:37.348560Z
-1228716
-erwan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-customer
-dir
-
-search
-dir
-
-cart
-dir
-
-catalog
-dir
-
-manager
-dir
-
-Login.groovy
-file
-
-
-
-
-2012-04-03T16:31:59.108469Z
-4d6d201def5f8fa974d6091e392c84b0
-2010-08-06T04:46:48.809635Z
-982870
-doogie
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2010
-
-buttons
-dir
-

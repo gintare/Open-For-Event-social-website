@@ -1,46 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/runtime
-http://svn.apache.org/repos/asf
-
-
-
-2012-01-22T17:04:57.111794Z
-1234549
-jleroux
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-output
-dir
-
-tmp
-dir
-
-logs
-dir
-
-tempfiles
-dir
-
-data
-dir
-
-catalina
-dir
-

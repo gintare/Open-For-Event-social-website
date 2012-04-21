@@ -1,86 +1,0 @@
-10
-
-dir
-1309017
-http://svn.apache.org/repos/asf/ofbiz/trunk/specialpurpose/pos/src/org/ofbiz/pos
-http://svn.apache.org/repos/asf
-
-
-
-2012-03-14T06:07:52.615697Z
-1300463
-ashish
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-device
-dir
-
-screen
-dir
-
-event
-dir
-
-component
-dir
-
-container
-dir
-
-config
-dir
-
-PosTransaction.java
-file
-
-
-
-
-2012-04-03T16:32:02.381009Z
-b75e92220f52c6a568e0f7e4410a77a1
-2012-03-14T06:07:52.615697Z
-1300463
-ashish
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-91028
-
-adaptor
-dir
-
-jpos
-dir
-
