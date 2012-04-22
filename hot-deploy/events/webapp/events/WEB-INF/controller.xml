@@ -43,10 +43,17 @@ under the License.
         <event type="java" path="com.openforevent.main.UserPosition" invoke="sendVisitID"/>
         <response name="success" type="view" value="main"/>
     </request-map>
+    
+    <request-map uri="pre-main">
+        <security https="false" auth="false"/>
+        <event type="java" path="com.openforevent.main.UserPosition" invoke="sendVisitID"/>
+        <response name="success" type="view" value="pre-main"/>
+    </request-map>
 
     <!-- end of request mappings -->
 
     <!-- View Mappings -->
     <view-map name="main" type="screen" page="component://events/widget/EventsBaseScreens.xml#main"/>
+    <view-map name="pre-main" type="screen" page="component://events/widget/EventsBaseScreens.xml#pre-main"/>
     <!-- end of view mappings -->
 </site-conf>

@@ -24,24 +24,26 @@ under the License.
     <screen name="main">
         <section>
             <actions>
-                <!-- <property-map resource="GoogleBaseUiLabels" map-name="uiLabelMap" global="true"/>
-                <property-map resource="ProductUiLabels" map-name="uiLabelMap" global="true"/>
-                <property-map resource="CommonUiLabels" map-name="uiLabelMap" global="true"/>
-                <property-map resource="WorkEffortUiLabels" map-name="uiLabelMap" global="true"/>
-                <set field="activeApp" value="googlebase" global="true"/>
-
-                <set field="layoutSettings.companyName" from-field="uiLabelMap.GoogleBaseCompanyName" global="true"/>
-                <set field="layoutSettings.companySubtitle" from-field="uiLabelMap.GoogleBaseApplication" global="true"/>
-                <set field="applicationMenuName" value="GoogleBaseAppBar" global="true"/>
-                <set field="applicationMenuLocation" value="component://googlebase/widget/GoogleBaseMenus.xml" global="true"/>
-                <set field="applicationTitle" value="${uiLabelMap.GoogleBaseApplication}" global="true"/>-->
-                
+                <set field="layoutSettings.javaScripts[+0]" value="/images/selectall.js" global="true"/>
+                <set field="layoutSettings.javaScripts[+0]" value="/images/jquery/jquery-1.7.min.js" global="true" />
                 <service service-name="userLocationProperties" result-map="result"/> 
             </actions>
             <widgets>
                 <platform-specific>
                    <html><html-template location="component://events/webapp/events/public/EventsMainScreen.ftl"/></html>
                 </platform-specific>
+            </widgets>
+        </section>
+    </screen>
+    
+    <screen name="pre-main">
+        <section>
+            <actions>
+            </actions>
+            <widgets>
+               <platform-specific>
+                   <html><html-template location="component://events/webapp/events/public/EventsTestScreen.ftl"/></html>
+               </platform-specific>
             </widgets>
         </section>
     </screen>
