@@ -30,7 +30,7 @@ under the License.
             </actions>
             <widgets>
                 <platform-specific>
-                   <html><html-template location="component://events/webapp/events/public/EventsMainScreen.ftl"/></html>
+                   <html><html-template location="component://events/webapp/events/public/EventsTestScreen.ftl"/></html>
                 </platform-specific>
             </widgets>
         </section>

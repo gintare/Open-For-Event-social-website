@@ -39,4 +39,10 @@ under the License.
         location="webapp/events"
         mount-point="/events"
         app-bar-display="false"/>
+    <webapp name="gwt"
+        title="Open For Event"
+        server="default-server"
+        location="webapp/gwt"
+        mount-point="/gwt"
+        app-bar-display="false"/>
 </ofbiz-component>

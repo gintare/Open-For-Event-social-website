@@ -79,6 +79,20 @@ under the License.
         <servlet-name>ControlServlet</servlet-name>
         <url-pattern>/control/*</url-pattern>
     </servlet-mapping>
+    
+    <!-- gwtrpc -->
+        <servlet>
+                <servlet-name>gwtrpc</servlet-name>
+                <servlet-class>com.openforevent.gwt.gwtrpc.server.GwtRpcServiceImpl</servlet-class>
+        </servlet>
+
+        <servlet-mapping>
+                <servlet-name>gwtrpc</servlet-name>
+                <url-pattern>/gwtrpc</url-pattern>
+        </servlet-mapping >
+    <!-- gwtprc -->
+    
+
 
     <session-config>
         <session-timeout>60</session-timeout> <!-- in minutes -->
