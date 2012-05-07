@@ -53,7 +53,7 @@ public class GwtRpcServletUtil {
     public String invokeServlet(HttpServletRequest request, HttpServletResponse response, String requestPayload)
                                                                                         throws InvocationTargetException, IllegalAccessException, InstantiationException, NoSuchMethodException, ClassNotFoundException, SerializationException, IOException {
 
-        RemoteService target = getRemoteServiceTarget("com.ofbizify.gwt.gwtrpc.server.GwtRpcServiceImpl", request, response);
+        RemoteService target = getRemoteServiceTarget("com.openforevent.gwt.gwtrpc.server.GwtRpcServiceImpl", request, response);
         RPCRequest rpcRequest = RPC.decodeRequest(requestPayload, target.getClass(), serializationPolicyProvider);
 
         String responsePayload = RPC.invokeAndEncodeResponse(target, rpcRequest.getMethod(), rpcRequest.getParameters(), serializationPolicy, rpcRequest.getFlags());

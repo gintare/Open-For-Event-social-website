@@ -38,6 +38,11 @@ under the License.
     <handler name="simplecontent" type="view" class="org.ofbiz.content.view.SimpleContentViewHandler"/>
     <handler name="screenfop" type="view" class="org.ofbiz.widget.screen.ScreenFopViewHandler"/>
     
+    <handler name="gwtgroovy" type="request" class="com.openforevent.gwt.gwtrpc.event.GwtRpcGroovyEventHandler"/>
+    <handler name="gwtservice" type="request" class="com.openforevent.gwt.gwtrpc.event.GwtRpcServiceEventHandler"/>
+    <handler name="gwtjava" type="request" class="com.openforevent.gwt.gwtrpc.event.GwtRpcJavaEventHandler"/>
+    
+    
     <request-map uri="main">
         <security https="false" auth="false"/>
         <event type="java" path="com.openforevent.main.UserPosition" invoke="sendVisitID"/>
@@ -48,6 +53,12 @@ under the License.
         <security https="false" auth="false"/>
         <event type="java" path="com.openforevent.main.UserPosition" invoke="sendVisitID"/>
         <response name="success" type="view" value="pre-main"/>
+    </request-map>
+    
+    <request-map uri="userLocationProperties">
+       <event type="gwtservice" invoke="userLocationProperties"/>
+       <response name="success" type="none"/>
+       <response name="error" type="none"/>
     </request-map>
 
     <!-- end of request mappings -->

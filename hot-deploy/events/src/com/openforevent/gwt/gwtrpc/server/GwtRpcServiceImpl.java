@@ -28,6 +28,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Enumeration;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -47,7 +48,7 @@ import com.google.gwt.user.server.rpc.RPCServletUtils;
 import com.google.gwt.user.server.rpc.SerializationPolicy;
 import com.google.gwt.user.server.rpc.SerializationPolicyLoader;
 import com.google.gwt.user.server.rpc.SerializationPolicyProvider;
-import com.openforevent.gwt.gwtrpc.client.GwtRpcService;
+import com.openforevent.events.client.GwtRpcService;
 import com.openforevent.gwt.gwtrpc.serializer.AbstractPayloadSerializer;
 import com.openforevent.gwt.gwtrpc.serializer.PayloadSerializer;
 import com.openforevent.gwt.gwtrpc.util.GwtRpcPayload;
@@ -59,17 +60,18 @@ import com.openforevent.gwt.gwtrpc.util.GwtRpcPayload;
 public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
                 GwtRpcService, SerializationPolicyProvider {
        
-        public static final String module = GwtRpcServiceImpl.class.getName();
+    public static final String module = GwtRpcServiceImpl.class.getName();
        
-        private HttpServletRequest request = null;
-        private HttpServletResponse response = null;
+    private HttpServletRequest request = null;
+    private HttpServletResponse response = null;
+    private final Map<String, SerializationPolicy> serializationPolicyCache = new HashMap<String, SerializationPolicy>();
 
-        public GwtRpcServiceImpl(HttpServletRequest request, HttpServletResponse response) {
+    public GwtRpcServiceImpl(HttpServletRequest request, HttpServletResponse response) {
         this.request = request;
         this.response = response;
     }
        
-        static SerializationPolicy loadSerializationPolicy(HttpServlet servlet,
+    static SerializationPolicy loadSerializationPolicy(HttpServlet servlet,
                       HttpServletRequest request, String moduleBaseURL, String strongName) {
                     // The request can tell you the path of the web app relative to the
             // container root.
@@ -140,12 +142,9 @@ public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
             }
        
             return serializationPolicy;
-        }
+        }              
        
-        private final Map<String, SerializationPolicy> serializationPolicyCache = new HashMap<String, SerializationPolicy>();
-       
-        public final SerializationPolicy getSerializationPolicy(String moduleBaseURL,
-                      String strongName) {
+    public final SerializationPolicy getSerializationPolicy(String moduleBaseURL,String strongName) {
        
             SerializationPolicy serializationPolicy = getCachedSerializationPolicy(
                 moduleBaseURL, strongName);
@@ -175,7 +174,7 @@ public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
             return serializationPolicy;
         }
 
-        public String processCall(String payload) throws SerializationException {
+    public String processCall(String payload) throws SerializationException {
             try {
               RPCRequest rpcRequest = RPC.decodeRequest(payload, this.getClass(), this);
               onAfterRequestDeserialized(rpcRequest);
@@ -222,22 +221,27 @@ public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
         }
 
         private void writeResponse(HttpServletRequest request,
-                      HttpServletResponse response, String responsePayload) throws IOException {
-                    boolean gzipEncode = RPCServletUtils.acceptsGzipEncoding(request)
+           HttpServletResponse response, String responsePayload) throws IOException {
+           boolean gzipEncode = RPCServletUtils.acceptsGzipEncoding(request)
                         && shouldCompressResponse(request, response, responsePayload);
 
-                    RPCServletUtils.writeResponse(getServletContext(), response,
-                responsePayload, gzipEncode);
+           RPCServletUtils.writeResponse(getServletContext(), response,
+           responsePayload, gzipEncode);
         }      
 
         @Override
         public final void processPost(HttpServletRequest request,
               HttpServletResponse response) throws IOException, ServletException,
               SerializationException {
+        	
+        	if(Debug.infoOn()) {
+        		Debug.logInfo("processPost", module);
+        	}
+        	
             // Read the request fully.
             //
                
-                //get the requestPayload from the request attribute instead of reading it from request
+            //get the requestPayload from the request attribute instead of reading it from request
             //String requestPayload = readContent(request);
                 String requestPayload = (String)request.getAttribute(GwtRpcPayload.REQUEST_PAYLOAD);
 
@@ -277,55 +281,56 @@ public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
         }*/
         //
 
-        public HashMap<String, Object> processRequest(HashMap<String, String> parameters) {
+    public HashMap<String, Object> processRequest(HashMap<String, String> parameters) {
 
-                HashMap<String, Object> result = null;
+        HashMap<String, Object> result = null;
                
-                if(Debug.infoOn()) {
-                        Debug.logInfo("In processRequest : parameters " + parameters, module);
-                }
+        if(Debug.infoOn()) {
+            Debug.logInfo("In processRequest : parameters " + parameters, module);
+            Debug.logInfo("In processRequest : request "+request.getAttributeNames().hasMoreElements(), module);            
+        }
 
-                //HttpServletRequest request = getThreadLocalRequest();
+        //HttpServletRequest request = getThreadLocalRequest();
         //HttpServletResponse response = getThreadLocalResponse();
 
-                Object ofbizPayLoad = request.getAttribute(GwtRpcPayload.OFBIZ_PAYLOAD);
+        Object ofbizPayLoad = request.getAttribute(GwtRpcPayload.OFBIZ_PAYLOAD);
         if(Debug.infoOn()) {
-                        Debug.logInfo("ofbizPayLoad : " + ofbizPayLoad, module);
-                }
+            Debug.logInfo("ofbizPayLoad : " + ofbizPayLoad, module);
+        }
 
         String ofbizPayloadClassName = ofbizPayLoad.getClass().getName();
-                if(Debug.infoOn()) {
-                        Debug.logInfo("ofbizPayloadClassName : " + ofbizPayloadClassName, module);
-                }
+        if(Debug.infoOn()) {
+             Debug.logInfo("ofbizPayloadClassName : " + ofbizPayloadClassName, module);
+         }
 
-                if("javolution.util.FastMap".equals(ofbizPayloadClassName)) {
+         if("javolution.util.FastMap".equals(ofbizPayloadClassName)) {
 
-                        FastMap<String, Object> tmpFastMap = (FastMap<String, Object>)ofbizPayLoad;
-                        HashMap<String, Object> tmpHashMap = new HashMap<String, Object>();
+             FastMap<String, Object> tmpFastMap = (FastMap<String, Object>)ofbizPayLoad;
+             HashMap<String, Object> tmpHashMap = new HashMap<String, Object>();
                        
-                        Iterator<String> keys = tmpFastMap.keySet().iterator();
+             Iterator<String> keys = tmpFastMap.keySet().iterator();
 
-                        while(keys.hasNext()) {
-                                String key = keys.next();
-                                Object value = tmpFastMap.get(key);
+             while(keys.hasNext()) {
+                 String key = keys.next();
+                 Object value = tmpFastMap.get(key);
 
-                                tmpHashMap.put(key, value);
-                        }
+                 tmpHashMap.put(key, value);
+              }
 
-                        ofbizPayLoad = tmpHashMap;
-                }
+              ofbizPayLoad = tmpHashMap;
+          }
 
-                result = (HashMap<String, Object>)ofbizPayLoad;
-        if(Debug.infoOn()) {
-                        Debug.logInfo("result : " + result, module);
-                }
+          result = (HashMap<String, Object>)ofbizPayLoad;
+          if(Debug.infoOn()) {
+              Debug.logInfo("result : " + result, module);
+          }
 
-        Object resultValue = result.get(GwtRpcPayload.PAYLOAD);
-        if(Debug.infoOn()) {
-                        Debug.logInfo("payload : " + resultValue, module);
-                }
+          Object resultValue = result.get(GwtRpcPayload.PAYLOAD);
+          if(Debug.infoOn()) {
+              Debug.logInfo("payload : " + resultValue, module);
+          }
 
-        if(resultValue != null) {
+          if(resultValue != null) {
 
                 if(resultValue instanceof Map<?, ?>) {
                        
@@ -417,9 +422,34 @@ public class GwtRpcServiceImpl extends AbstractRemoteServiceServlet implements
         }
 
         @Override
-        public HashMap<String, String> dummy2(HashMap<String, String> parameters) {
-                // TODO Auto-generated method stub
-                return null;
+        public HashMap<String, Object> dummy2(HashMap<String, Object> parameters) {
+        	HashMap<String, String> pars = new HashMap<String, String>();
+        	
+        	Iterator it = parameters.keySet().iterator();
+        	while(it.hasNext() == true){
+        		String key = (String)it.next();
+        		String value = (String)parameters.get(key);
+        		pars.put(key, value);
+        	}
+        	
+        	Object ofbizPayLoad = request.getAttribute(GwtRpcPayload.OFBIZ_PAYLOAD);
+            if(Debug.infoOn()) {
+                Debug.logInfo("ofbizPayLoad : " + ofbizPayLoad, module);
+            }
+
+            String ofbizPayloadClassName = ofbizPayLoad.getClass().getName();
+            if(Debug.infoOn()) {
+                 Debug.logInfo("ofbizPayloadClassName : " + ofbizPayloadClassName, module);
+             }
+        	
+            HashMap<String, Object> result = (HashMap<String, Object>)ofbizPayLoad;
+            HashMap<String, Object> returnResult = new HashMap<String, Object>();
+            it = result.keySet().iterator();
+            while(it.hasNext() == true){
+            	String key = (String)it.next();
+            	returnResult.put(key, result.get(key));
+            }
+            return this.processRequest(pars);
         }
 
         @Override

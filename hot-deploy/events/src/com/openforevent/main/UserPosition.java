@@ -123,14 +123,78 @@ public class UserPosition {
     	    Delegator delegator = ctx.getDelegator();
           LocalDispatcher dispatcher = ctx.getDispatcher();
           String visitId = (String)context.get("visitId"); 
+          
+        if(Debug.infoOn()){
+    	    Debug.logInfo("In userLocationProperties", module);
+        }
 
-       // get user coords
-       coordsOfUserPosition(ctx, context);
+        // get user coords
+        coordsOfUserPosition(ctx, context);
+        
+        URL url = new URL("https://graph.facebook.com/search?since=now&limit=4&q=2012-05-07&type=event&access_token=" +
+        		"AAACEdEose0cBAFVYYkZAUlGqzZBEaZADBDAh81y6BYOOQz6aZCMx0Ut3AS6kdQiETAZCTqhRdlG7ygqaQUSIko4ZA2ZAqzI4omWiAh8436wFahKHrtU9ZC1L");
+        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+        
+        // Set properties of the connection
+           urlConnection.setRequestMethod("GET");
+           urlConnection.setDoInput(true);
+           urlConnection.setDoOutput(true);
+           urlConnection.setUseCaches(false);
+           urlConnection.setRequestProperty("Content-Type", "application/x-www-form-urlencoded");
+
+        // Retrieve the output
+        int responseCode = urlConnection.getResponseCode();
+            InputStream inputStream;
+        if (responseCode == HttpURLConnection.HTTP_OK) {
+            inputStream = urlConnection.getInputStream();
+        } else {
+            inputStream = urlConnection.getErrorStream();
+        }
+     
+           StringWriter writer = new StringWriter();
+           IOUtils.copy(inputStream, writer, "UTF-8");
+           String theString = writer.toString();
+           
+           Debug.logInfo("Facebook stream = ", theString);
+           
+           if(theString.contains("AuthException") == true){
+        	   url = new URL("https://graph.facebook.com/oauth/access_token?"+             
+        		    "client_id=	283576871735609&"+
+        		    "client_secret=	5cf1fe4e531dff8de228bfac61b8fdfa&"+
+        		    "grant_type=fb_exchange_token&"+
+        		    "fb_exchange_token=" +
+        		    "AAACEdEose0cBAFVYYkZAUlGqzZBEaZADBDAh81y6BYOOQz6aZCMx0Ut3AS6kdQiETAZCTqhRdlG7ygqaQUSIko4ZA2ZAqzI4omWiAh8436wFahKHrtU9ZC1L");
+        	   
+        	   HttpURLConnection urlConnection1 = (HttpURLConnection) url.openConnection();
+               
+               // Set properties of the connection
+                  urlConnection1.setRequestMethod("GET");
+                  urlConnection1.setDoInput(true);
+                  urlConnection1.setDoOutput(true);
+                  urlConnection1.setUseCaches(false);
+                  urlConnection1.setRequestProperty("Content-Type", "application/x-www-form-urlencoded");
+
+               // Retrieve the output
+               int responseCode1 = urlConnection1.getResponseCode();
+                   InputStream inputStream1;
+               if (responseCode == HttpURLConnection.HTTP_OK) {
+                   inputStream1 = urlConnection1.getInputStream();
+               } else {
+                   inputStream1 = urlConnection1.getErrorStream();
+               }
+            
+                  StringWriter writer1 = new StringWriter();
+                  IOUtils.copy(inputStream1, writer1, "UTF-8");
+                  String theString1 = writer1.toString();
+                  
+                  Debug.logInfo("Facebook stream1 = ", theString1);
+
+           }
        
-          Map<String, Object> paramOut = FastMap.newInstance();   
-          paramOut.put("geoName", "");
-          paramOut.put("abbreviation", "");
-       return paramOut;
+        Map<String, Object> paramOut = FastMap.newInstance();   
+        paramOut.put("geoName", "aaa");
+        paramOut.put("abbreviation", "bbb");
+        return paramOut;
        
     }
 

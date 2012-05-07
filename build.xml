@@ -1254,4 +1254,10 @@ under the License.
     <target name="run-install-file-in-delegator">
         <echo message="The 'run-install-file-in-delegator' command has been renamed 'load-file'; please use 'ant load-file' to load data from a given file."/>
     </target>
+	
+	 <target name="import-gwt">
+	    <copy todir="${basedir}/hot-deploy/events/webapp/gwt/events" overwrite="true" verbose="true">
+	        <fileset dir="/home/gintare/GinSoftware/OpenForEvent/events/war/events" includes="*"/>
+	    </copy>
+	 </target>
 </project>

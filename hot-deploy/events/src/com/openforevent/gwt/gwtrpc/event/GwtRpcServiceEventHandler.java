@@ -33,7 +33,9 @@ import javax.servlet.http.HttpServletResponse;
 import org.ofbiz.base.util.Debug;
 import org.ofbiz.base.util.UtilValidate;
 import org.ofbiz.service.DispatchContext;
+import org.ofbiz.service.GenericServiceException;
 import org.ofbiz.service.LocalDispatcher;
+import org.ofbiz.service.ModelService;
 import org.ofbiz.webapp.control.ConfigXMLReader.Event;
 import org.ofbiz.webapp.control.ConfigXMLReader.RequestMap;
 import org.ofbiz.webapp.control.RequestHandler;
@@ -78,44 +80,34 @@ public class GwtRpcServiceEventHandler implements EventHandler {
        
         if(null != gwtParameters) {
                
-                String serviceName = event.invoke;
-                if(Debug.infoOn()) {
-                        Debug.logInfo("serviceName : " + serviceName, module);
-                }
+            String serviceName = event.invoke;
+            if(Debug.infoOn()) {
+                Debug.logInfo("serviceName : " + serviceName, module);
+            }
                
-                Set<String> keys = gwtParameters.keySet();
-                        Iterator<String> iter = keys.iterator();
-                        while(iter.hasNext()) {
-                                String key = iter.next();
-                                request.setAttribute(key, gwtParameters.get(key));
-                        }
+            Set<String> keys = gwtParameters.keySet();
+            Iterator<String> iter = keys.iterator();
+            while(iter.hasNext()) {
+                String key = iter.next();
+                request.setAttribute(key, gwtParameters.get(key));
+            }
                        
-                        RequestHandler requestHandler = (RequestHandler) request.getAttribute("_REQUEST_HANDLER_");
-                        EventHandler serviceEventHandler = requestHandler.getEventFactory().getEventHandler("service");
+            RequestHandler requestHandler = (RequestHandler) request.getAttribute("_REQUEST_HANDLER_");
+            EventHandler serviceEventHandler = requestHandler.getEventFactory().getEventHandler("service");
 
-                        String eventResult = null;
-                        try {
+            String eventResult = null;
+            try {                              
+                eventResult = serviceEventHandler.invoke(new Event("service", event.path, event.invoke, true), null, request, response);
+                if(Debug.infoOn()) {
+                    Debug.logInfo("event.path : " + event.path, module);
+                    Debug.logInfo("eventResult : " + eventResult, module);
+                }
                                
-                                eventResult = serviceEventHandler.invoke(new Event("service", event.path, event.invoke, true), null, request, response);
-                                if(Debug.infoOn()) {
-                                        Debug.logInfo("event.path : " + event.path, module);
-                                Debug.logInfo("eventResult : " + eventResult, module);
-                        }
-                               
-                        } catch(EventHandlerException ehe) {
-                                throw new EventHandlerException("Exception while executing service event : ",ehe);
-                        }
+            } catch(EventHandlerException ehe) {
+                throw new EventHandlerException("Exception while executing service event : ",ehe);
+            }
 
-                        if(Debug.infoOn()) {
-
-                                Enumeration<String> attrNames = request.getAttributeNames();
-                                while(attrNames.hasMoreElements()) {
-                                        String attrName = attrNames.nextElement();
-                                        Debug.logInfo("attrName : " + attrName + " - attrValue : " + request.getAttribute(attrName), module);
-                                }
-                        }
-
-                        LocalDispatcher dispatcher = (LocalDispatcher) request.getAttribute("dispatcher");
+            LocalDispatcher dispatcher = (LocalDispatcher) request.getAttribute("dispatcher");
             if (dispatcher == null) {
                 throw new EventHandlerException("local dispatcher is null");
             }
@@ -150,29 +142,71 @@ public class GwtRpcServiceEventHandler implements EventHandler {
             //implicitVariables.add("errorMessage");
             //implicitVariables.add("errorMessageList");
 
-            Map<String, Object> resultMap = null;
+            //null;
 
-            if(UtilValidate.isEmpty(event.path) || ServiceEventHandler.SYNC.equals(event.path)) {
+            /*if(UtilValidate.isEmpty(event.path) || ServiceEventHandler.SYNC.equals(event.path)) {
                  resultMap = (Map<String, Object>) request.getAttribute("result");
             } else {
                 resultMap = GwtRpcPayloadUtil.returnSuccess();
+            }*/
+            
+            
+            Map<String, Object> resultMap = new HashMap<String, Object>();
+            Set<String> paramNames = null;
+
+            try {
+            	ModelService model = dctx.getModelService(serviceName);
+            	paramNames = model.getAllParamNames();
+            	
+            } catch (GenericServiceException e) {
+                throw new EventHandlerException("Problems getting the service model", e);
+            }
+            
+            
+            Enumeration<String> attrNames = request.getAttributeNames();
+            while(attrNames.hasMoreElements()) {
+                String attrName = attrNames.nextElement();
+                
+                Iterator it = paramNames.iterator();
+                while(it.hasNext()){
+                	String name = (String)it.next();
+                	if(attrName.compareTo(name) == 0){
+                		resultMap.put(attrName, request.getAttribute(attrName));
+                	}
+                }
+            }
+            
+            if(Debug.infoOn()){
+            	Iterator it = resultMap.keySet().iterator();
+            	while(it.hasNext()){
+            		String key = (String)it.next();
+            	    Debug.logInfo("resultMap : key = "+key+"; value = "+resultMap.get(key), module);
+            	}
             }
 
             //ServletContext sc = (ServletContext)request.getAttribute("servletContext");
-                //RequestDispatcher rd = sc.getRequestDispatcher("/gwtrpc");
+            //RequestDispatcher rd = sc.getRequestDispatcher("/gwtrpc");
 
-                request.setAttribute(GwtRpcPayload.OFBIZ_PAYLOAD, resultMap);
-                request.setAttribute(GwtRpcPayload.REQUEST_PAYLOAD, requestPayload);
+            request.setAttribute(GwtRpcPayload.OFBIZ_PAYLOAD, resultMap);
+            request.setAttribute(GwtRpcPayload.REQUEST_PAYLOAD, requestPayload);
 
-                /*try {
+            /*try {
                         rd.forward(request, response);
                 } catch(IOException ioe) {
                 throw new EventHandlerException("IO Exception while forwarding request to GWT RPC servlet  : ",ioe);
             } catch(ServletException se) {
                 throw new EventHandlerException("Servlet Exception while forwarding request to GWT RPC servlet  : ",se);
             }*/
+            
+            if(Debug.infoOn()) {
+                //Enumeration<String> attrNames = request.getAttributeNames();
+                while(attrNames.hasMoreElements()) {
+                String attrName = attrNames.nextElement();
+                    Debug.logInfo("attrName : " + attrName + " - attrValue : " + request.getAttribute(attrName), module);
+                }
+            }
                
-                try {
+            try {
                
                 GwtRpcServletUtil servletUtil = new GwtRpcServletUtil();
                 String responsePayload = servletUtil.invokeServlet(request, response, requestPayload);
