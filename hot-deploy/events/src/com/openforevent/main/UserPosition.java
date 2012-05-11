@@ -132,7 +132,7 @@ public class UserPosition {
         coordsOfUserPosition(ctx, context);
         
         URL url = new URL("https://graph.facebook.com/search?since=now&limit=4&q=2012-05-07&type=event&access_token=" +
-        		"AAACEdEose0cBAFVYYkZAUlGqzZBEaZADBDAh81y6BYOOQz6aZCMx0Ut3AS6kdQiETAZCTqhRdlG7ygqaQUSIko4ZA2ZAqzI4omWiAh8436wFahKHrtU9ZC1L");
+        		"AAACEdEose0cBAN9CB2ErxVN3JvK2gsrLslPt6e6Y7hJ0OrMEkMoyNwvHgSZCAEu2lCHZALlVWXZCW5JL8asMWoaPN3UAXFpZBsJJ6SvXRAAIZAXeTo0fD");
         HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
         
         // Set properties of the connection
@@ -163,7 +163,7 @@ public class UserPosition {
         		    "client_secret=	5cf1fe4e531dff8de228bfac61b8fdfa&"+
         		    "grant_type=fb_exchange_token&"+
         		    "fb_exchange_token=" +
-        		    "AAACEdEose0cBAFVYYkZAUlGqzZBEaZADBDAh81y6BYOOQz6aZCMx0Ut3AS6kdQiETAZCTqhRdlG7ygqaQUSIko4ZA2ZAqzI4omWiAh8436wFahKHrtU9ZC1L");
+        		    "AAACEdEose0cBAN9CB2ErxVN3JvK2gsrLslPt6e6Y7hJ0OrMEkMoyNwvHgSZCAEu2lCHZALlVWXZCW5JL8asMWoaPN3UAXFpZBsJJ6SvXRAAIZAXeTo0fD");
         	   
         	   HttpURLConnection urlConnection1 = (HttpURLConnection) url.openConnection();
                

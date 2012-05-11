@@ -25,4 +25,92 @@ under the License.
     <description>None</description>
     <version>1.0</version>
     
+    <entity entity-name="FacebookLogin"
+            package-name="com.openforevent.facebook"
+            title="Facebook User Login Metadata entity">
+        <field name="facebookLoginId" type="id-ne"></field>
+        <field name="visitId" type="id-ne"></field>
+        <field name="accessToken" type="id-vlong-ne"></field>
+        <field name="expireTime" type="short-varchar"></field>
+        <field name="isExpired" type="indicator"></field>
+        <prim-key field="facebookLoginId"/>
+        <relation type="one" fk-name="FB_LOGIN_VISIT" rel-entity-name="Visit">
+            <key-map field-name="visitId"/>
+        </relation>
+    </entity>
+    
+    <entity entity-name="FacebookImportMetadata"
+            package-name="com.openforevent.facebook"
+            title="Facebook Importing Metadata entity">
+        <field name="facebookImportMetadataId" type="id-ne"></field>        
+        <field name="pageUrl" type="url"></field>
+        <field name="pageNo" type="id"></field>
+        <field name="searchKey" type="short-varchar"></field>
+        <field name="rowsToFech" type="numeric"></field>
+        <field name="startTime" type="short-varchar"></field>
+        <field name="endTime" type="short-varchar"></field>       
+        <field name="fabookLoginId" type="id-ne"></field>
+        <field name="eventRowsFeched" type="numeric"></field>
+        <field name="eventRowsStored" type="numeric"></field>
+        <field name="partyRowsStored" type="numeric"></field>       
+        <field name="Error" type="description"></field>
+        <prim-key field="facebookImportMetadataId"/>
+        <relation type="one" fk-name="FB_IMPORT_LOGIN" rel-entity-name="FacebookLogin">
+           <key-map field-name="fabookLoginId"/>
+        </relation> 
+    </entity>
+    
+    <entity entity-name="Event"
+            package-name="com.openforevent.event"
+            title="Event entity">
+       <field name="eventId" type="id-ne"></field>
+       <field name="partyId" type="id-ne"></field>
+       <field name="dataSourceId" type="id-ne"></field>
+       <field name="name" type="name"></field>
+       <field name="description" type="very-long"></field>
+       <field name="startTime" type="date-time"></field>
+       <field name="endTime" type="date-time"></field>
+       <field name="location" type="value"></field>
+       <field name="privaticy" type="id-ne"></field>
+       <field name="updateTime" type="date-time"></field>
+       <prim-key field="eventId"/>
+       <relation type="one" fk-name="EVENT_PARTY" rel-entity-name="Party">
+           <key-map field-name="partyId"/>
+        </relation> 
+        <relation type="one" fk-name="EVENT_DATA_SOURCE" rel-entity-name="DataSource">
+           <key-map field-name="dataSourceId"/>
+        </relation> 
+    </entity>
+    
+    <entity entity-name="EventGeoPoint"
+            package-name="com.openforevent.event"
+            title="GeoPoints of Events entity">
+        <field name="eventId" type="id-ne"></field>
+        <field name="geoPointId" type="id-ne"></field>
+        <prim-key field="eventId"/>
+        <prim-key field="geoPointId"/>
+        <relation type="one" fk-name="EVENT_GEOPOINT_EVENT" rel-entity-name="Event">
+           <key-map field-name="eventId"/>
+        </relation> 
+        <relation type="one" fk-name="EVENT_GEOPOINT_POINT" rel-entity-name="GeoPoint">
+           <key-map field-name="geoPointId"/>
+        </relation> 
+    </entity>
+    
+    <extend-entity entity-name="GeoPoint">
+        <field name="street" type="value"></field>
+        <field name="cityId" type="id-ne"></field>
+        <field name="stateId" type="id-ne"></field>
+        <field name="countryId" type="id-ne"></field>
+        <relation type="one" fk-name="CITY_GEO" rel-entity-name="Geo">
+           <key-map field-name="cityId" rel-field-name="geoId"/>
+        </relation> 
+        <relation type="one" fk-name="STATE_GEO" rel-entity-name="Geo">
+           <key-map field-name="stateId" rel-field-name="geoId"/>
+        </relation> 
+        <relation type="one" fk-name="COUNTRY_GEO" rel-entity-name="Geo">
+           <key-map field-name="countryId" rel-field-name="geoId"/>
+        </relation> 
+    </extend-entity>
+    
 </entitymodel>

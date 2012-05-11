@@ -32,5 +32,15 @@ under the License.
         <attribute type="String" mode="OUT" name="geoName" optional="false"/>
         <attribute type="String" mode="OUT" name="abbreviation" optional="false"/>
     </service>
+    
+    <service name="storeFacebookToken" engine="java"
+             location="com.openforevent.admin.FacebookServices" invoke="storeFacebookToken" auth="false">
+        <description>Visitor/user position determination in real time</description>
+        <attribute name="state" type="String" mode="IN" optional="false"/>  
+        <attribute name="code" type="String" mode="IN" optional="true"/>
+        <attribute name="error" type="String" mode="IN" optional="true"/>
+        <attribute name="error_reason" type="String" mode="IN" optional="true"/>
+        <attribute name="error_description" type="String" mode="IN" optional="true"/>
+    </service>
         
 </services>

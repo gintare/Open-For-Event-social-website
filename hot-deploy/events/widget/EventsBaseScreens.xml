@@ -47,5 +47,24 @@ under the License.
             </widgets>
         </section>
     </screen>
+    
+    <screen name="admin">
+        <section>
+            <actions>
+                    
+            </actions>
+            <widgets>
+                <decorator-screen name="CommonEventsAdminDecorator" location="${parameters.mainDecoratorLocation}">
+                <decorator-section name="body">
+                    <screenlet id="FacebookLogin" title="FacebookLogin" collapsible="false">
+                      <platform-specific>
+                          <html><html-template location="component://events/webapp/events/public/ImportFromFacebook.ftl"/></html>
+                      </platform-specific>
+                    </screenlet>
+                </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
         
 </screens>

@@ -25,11 +25,7 @@ under the License.
     <classpath type="dir" location="config"/>
     <classpath type="jar" location="build/lib/*"/>
 
-    <!--  <entity-resource type="model" reader-name="main" loader="main" location="entitydef/entitymodel.xml"/>
-    <entity-resource type="data" reader-name="seed" loader="main" location="data/GoogleBaseTypeData.xml"/>
-    <entity-resource type="data" reader-name="seed" loader="main" location="data/GoogleBaseSecurityData.xml"/>
-    <entity-resource type="data" reader-name="demo" loader="main" location="data/DemoGoogleBaseData.xml"/>-->
-
+    <entity-resource type="data" reader-name="seed" loader="main" location="data/EventsData.xml"/>
     <entity-resource type="model" reader-name="main" loader="main" location="entitydef/entitymodel.xml"/>
     <service-resource type="model" loader="main" location="servicedef/services.xml"/>
 
@@ -37,8 +33,7 @@ under the License.
         title="Open For Event"
         server="default-server"
         location="webapp/events"
-        mount-point="/events"
-        app-bar-display="false"/>
+        mount-point="/events"/>
     <webapp name="gwt"
         title="Open For Event"
         server="default-server"
