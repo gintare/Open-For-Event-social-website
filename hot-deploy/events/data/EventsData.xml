@@ -22,5 +22,12 @@ under the License.
     <DataSourceType dataSourceTypeId="FACEBOOK" description="Facebook data" />
     <DataSource dataSourceId="FB_SHORT" dataSourceTypeId="FACEBOOK" description="Short version of Facebook data" />
     <DataSource dataSourceId="FB_LONG" dataSourceTypeId="FACEBOOK" description="Full version of Facebook data" />
+    
+    <StatusType statusTypeId="FACEBOOK_LOGIN" description="Facebook login access token statuses"/>
+    <StatusItem statusId="FB_EMPTY" statusTypeId="FACEBOOK_LOGIN" statusCode="FB_EMPTY" sequenceId="01" description="Access token not requested yet"/>
+    <StatusItem statusId="FB_VALID" statusTypeId="FACEBOOK_LOGIN" statusCode="FB_VALID" sequenceId="02" description="Access token is valid for usage"/>
+    <StatusItem statusId="FB_EXPIRED" statusTypeId="FACEBOOK_LOGIN" statusCode="FB_EXPIRED" sequenceId="03" description="Access token is expired, not valid to use"/>
+    <StatusValidChange statusId="FB_EMPTY" statusIdTo="FB_VALID" conditionExpression="" transitionName="Init"/>
+    <StatusValidChange statusId="FB_VALID" statusIdTo="FB_EXPIRED" conditionExpression="" transitionName="Expire"/>
 
 </entity-engine-xml>

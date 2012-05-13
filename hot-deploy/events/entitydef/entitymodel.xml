@@ -29,13 +29,16 @@ under the License.
             package-name="com.openforevent.facebook"
             title="Facebook User Login Metadata entity">
         <field name="facebookLoginId" type="id-ne"></field>
-        <field name="visitId" type="id-ne"></field>
+        <field name="userLoginId" type="id-ne"></field>
         <field name="accessToken" type="id-vlong-ne"></field>
-        <field name="expireTime" type="short-varchar"></field>
-        <field name="isExpired" type="indicator"></field>
+        <field name="expireTime" type="date-time"></field>
+        <field name="statusId" type="id-ne"></field>
         <prim-key field="facebookLoginId"/>
-        <relation type="one" fk-name="FB_LOGIN_VISIT" rel-entity-name="Visit">
-            <key-map field-name="visitId"/>
+        <relation type="one" fk-name="FB_LOGIN_PARTY" rel-entity-name="UserLogin">
+            <key-map field-name="userLoginId"/>
+        </relation>
+        <relation type="one" fk-name="FB_LOGIN_STATUS" rel-entity-name="StatusItem">
+            <key-map field-name="statusId"/>
         </relation>
     </entity>
     
@@ -47,16 +50,15 @@ under the License.
         <field name="pageNo" type="id"></field>
         <field name="searchKey" type="short-varchar"></field>
         <field name="rowsToFech" type="numeric"></field>
-        <field name="startTime" type="short-varchar"></field>
-        <field name="endTime" type="short-varchar"></field>       
-        <field name="fabookLoginId" type="id-ne"></field>
+        <field name="startTime" type="date-time"></field>
+        <field name="endTime" type="date-time"></field>       
+        <field name="facebookLoginId" type="id-ne"></field>
         <field name="eventRowsFeched" type="numeric"></field>
-        <field name="eventRowsStored" type="numeric"></field>
-        <field name="partyRowsStored" type="numeric"></field>       
+        <field name="eventRowsStored" type="numeric"></field> 
         <field name="Error" type="description"></field>
         <prim-key field="facebookImportMetadataId"/>
-        <relation type="one" fk-name="FB_IMPORT_LOGIN" rel-entity-name="FacebookLogin">
-           <key-map field-name="fabookLoginId"/>
+        <relation type="one" fk-name="FB_IMPORT_LOGIN_ID" rel-entity-name="FacebookLogin">
+           <key-map field-name="facebookLoginId"/>
         </relation> 
     </entity>
     

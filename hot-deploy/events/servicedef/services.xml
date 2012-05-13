@@ -42,5 +42,19 @@ under the License.
         <attribute name="error_reason" type="String" mode="IN" optional="true"/>
         <attribute name="error_description" type="String" mode="IN" optional="true"/>
     </service>
+    
+    <service name="loadFacebookPrimaryImport" engine="java"
+             location="com.openforevent.admin.FacebookServices" invoke="loadFacebookPrimaryImport" auth="false">        
+    </service>
+    
+    <service name="facebookPrimaryImport" engine="java"
+             location="com.openforevent.admin.FacebookServices" invoke="facebookPrimaryImport" auth="false">        
+    </service>
+    
+    <service name="importFacebookEvents" engine="java"
+             location="com.openforevent.admin.FacebookServices" invoke="importFacebookEvents" auth="false">        
+        <attribute name="fromDate" type="Timestamp" mode="IN" optional="false"/>
+        <attribute name="rowsPerPage" type="Integer" mode="IN" optional="false"/>
+    </service>
         
 </services>

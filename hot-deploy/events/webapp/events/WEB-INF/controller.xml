@@ -74,6 +74,12 @@ under the License.
        <response name="success" type="view" value="admin"/>
        <response name="error" type="view" value="admin"/>
     </request-map>
+    
+    <request-map uri="loadFacebookPrimaryImport">
+       <event type="service" invoke="loadFacebookPrimaryImport"/>
+       <response name="success" type="view" value="admin"/>
+       <response name="error" type="view" value="admin"/>
+    </request-map>
 
     <!-- end of request mappings -->
 
